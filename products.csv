@@ -1,0 +1,151 @@
+product_id,product_name,category,sub_category,unit_cost,selling_price
+1,Smartphone 1,Electronics,Smartphone,7094.48,8761.0
+2,Smartphone 2,Electronics,Smartphone,51862.66,69837.0
+3,Smartphone 3,Electronics,Smartphone,7322.51,8466.0
+4,Smartphone 4,Electronics,Smartphone,45609.35,63005.0
+5,Smartphone 5,Electronics,Smartphone,50102.73,66429.0
+6,Laptop 1,Electronics,Laptop,59042.62,68694.0
+7,Laptop 2,Electronics,Laptop,62129.82,75706.0
+8,Laptop 3,Electronics,Laptop,29981.4,40974.0
+9,Laptop 4,Electronics,Laptop,52771.22,70516.0
+10,Laptop 5,Electronics,Laptop,47113.63,58233.0
+11,Tablet 1,Electronics,Tablet,32426.89,40981.0
+12,Tablet 2,Electronics,Tablet,18325.59,21069.0
+13,Tablet 3,Electronics,Tablet,60258.31,77360.0
+14,Tablet 4,Electronics,Tablet,56618.43,74625.0
+15,Tablet 5,Electronics,Tablet,45863.35,63287.0
+16,Headphones 1,Electronics,Headphones,23899.75,32424.0
+17,Headphones 2,Electronics,Headphones,52010.37,61271.0
+18,Headphones 3,Electronics,Headphones,56559.56,70232.0
+19,Headphones 4,Electronics,Headphones,38662.74,45203.0
+20,Headphones 5,Electronics,Headphones,3627.74,4707.0
+21,Smartwatch 1,Electronics,Smartwatch,60256.74,83090.0
+22,Smartwatch 2,Electronics,Smartwatch,55660.05,67233.0
+23,Smartwatch 3,Electronics,Smartwatch,65656.55,81574.0
+24,Smartwatch 4,Electronics,Smartwatch,28757.57,33845.0
+25,Smartwatch 5,Electronics,Smartwatch,33838.83,42094.0
+26,Air Conditioner 1,Home Appliances,Air Conditioner,9075.94,10399.0
+27,Air Conditioner 2,Home Appliances,Air Conditioner,34044.06,40168.0
+28,Air Conditioner 3,Home Appliances,Air Conditioner,37909.33,47382.0
+29,Air Conditioner 4,Home Appliances,Air Conditioner,38501.85,44639.0
+30,Air Conditioner 5,Home Appliances,Air Conditioner,39580.77,49468.0
+31,Refrigerator 1,Home Appliances,Refrigerator,26724.87,31312.0
+32,Refrigerator 2,Home Appliances,Refrigerator,49005.04,56627.0
+33,Refrigerator 3,Home Appliances,Refrigerator,15817.76,17909.0
+34,Refrigerator 4,Home Appliances,Refrigerator,42268.41,48251.0
+35,Refrigerator 5,Home Appliances,Refrigerator,45624.21,56636.0
+36,Microwave 1,Home Appliances,Microwave,1643.72,2004.0
+37,Microwave 2,Home Appliances,Microwave,27254.98,33802.0
+38,Microwave 3,Home Appliances,Microwave,42080.9,49804.0
+39,Microwave 4,Home Appliances,Microwave,31914.43,36134.0
+40,Microwave 5,Home Appliances,Microwave,35857.05,40459.0
+41,Washing Machine 1,Home Appliances,Washing Machine,26664.57,31613.0
+42,Washing Machine 2,Home Appliances,Washing Machine,39350.07,47286.0
+43,Washing Machine 3,Home Appliances,Washing Machine,5705.05,6925.0
+44,Washing Machine 4,Home Appliances,Washing Machine,44931.95,53903.0
+45,Washing Machine 5,Home Appliances,Washing Machine,6651.74,7703.0
+46,Mixer 1,Home Appliances,Mixer,35678.19,39806.0
+47,Mixer 2,Home Appliances,Mixer,22122.02,25304.0
+48,Mixer 3,Home Appliances,Mixer,26733.43,31415.0
+49,Mixer 4,Home Appliances,Mixer,60597.2,69498.0
+50,Mixer 5,Home Appliances,Mixer,53542.71,59958.0
+51,Men Clothing 1,Fashion,Men Clothing,6825.74,10312.0
+52,Men Clothing 2,Fashion,Men Clothing,1980.72,3592.0
+53,Men Clothing 3,Fashion,Men Clothing,914.85,1777.0
+54,Men Clothing 4,Fashion,Men Clothing,3754.16,6817.0
+55,Men Clothing 5,Fashion,Men Clothing,2572.97,5087.0
+56,Women Clothing 1,Fashion,Women Clothing,3538.04,5055.0
+57,Women Clothing 2,Fashion,Women Clothing,3044.49,4211.0
+58,Women Clothing 3,Fashion,Women Clothing,301.31,565.0
+59,Women Clothing 4,Fashion,Women Clothing,5930.08,8452.0
+60,Women Clothing 5,Fashion,Women Clothing,3420.61,5704.0
+61,Footwear 1,Fashion,Footwear,6101.49,11276.0
+62,Footwear 2,Fashion,Footwear,1282.83,2082.0
+63,Footwear 3,Fashion,Footwear,1480.02,2244.0
+64,Footwear 4,Fashion,Footwear,2668.83,4758.0
+65,Footwear 5,Fashion,Footwear,5358.31,7404.0
+66,Bags 1,Fashion,Bags,3239.27,4533.0
+67,Bags 2,Fashion,Bags,2036.22,4265.0
+68,Bags 3,Fashion,Bags,6240.72,11555.0
+69,Bags 4,Fashion,Bags,2595.66,5652.0
+70,Bags 5,Fashion,Bags,1760.84,3410.0
+71,Accessories 1,Fashion,Accessories,2063.97,3355.0
+72,Accessories 2,Fashion,Accessories,5806.43,8688.0
+73,Accessories 3,Fashion,Accessories,588.0,1227.0
+74,Accessories 4,Fashion,Accessories,875.13,1427.0
+75,Accessories 5,Fashion,Accessories,5619.16,8537.0
+76,Skincare 1,Personal Care,Skincare,1051.83,1738.0
+77,Skincare 2,Personal Care,Skincare,2380.77,4443.0
+78,Skincare 3,Personal Care,Skincare,861.29,1537.0
+79,Skincare 4,Personal Care,Skincare,2579.46,4018.0
+80,Skincare 5,Personal Care,Skincare,3439.22,5798.0
+81,Haircare 1,Personal Care,Haircare,734.42,1250.0
+82,Haircare 2,Personal Care,Haircare,3451.29,4735.0
+83,Haircare 3,Personal Care,Haircare,4509.32,6097.0
+84,Haircare 4,Personal Care,Haircare,2138.88,3414.0
+85,Haircare 5,Personal Care,Haircare,1161.46,1627.0
+86,Grooming 1,Personal Care,Grooming,1983.44,2739.0
+87,Grooming 2,Personal Care,Grooming,1078.71,1525.0
+88,Grooming 3,Personal Care,Grooming,2470.66,4763.0
+89,Grooming 4,Personal Care,Grooming,5253.2,7920.0
+90,Grooming 5,Personal Care,Grooming,2837.3,4711.0
+91,Fragrance 1,Personal Care,Fragrance,1257.53,2464.0
+92,Fragrance 2,Personal Care,Fragrance,207.08,329.0
+93,Fragrance 3,Personal Care,Fragrance,2783.8,3817.0
+94,Fragrance 4,Personal Care,Fragrance,3955.37,6295.0
+95,Fragrance 5,Personal Care,Fragrance,2793.21,5418.0
+96,Beauty 1,Personal Care,Beauty,2429.49,4002.0
+97,Beauty 2,Personal Care,Beauty,3011.11,4407.0
+98,Beauty 3,Personal Care,Beauty,2579.71,3867.0
+99,Beauty 4,Personal Care,Beauty,2835.13,4428.0
+100,Beauty 5,Personal Care,Beauty,3154.86,4237.0
+101,Furniture 1,Home & Living,Furniture,9179.48,14738.0
+102,Furniture 2,Home & Living,Furniture,26123.86,33104.0
+103,Furniture 3,Home & Living,Furniture,9789.01,12296.0
+104,Furniture 4,Home & Living,Furniture,14984.63,22295.0
+105,Furniture 5,Home & Living,Furniture,3387.46,5019.0
+106,Kitchenware 1,Home & Living,Kitchenware,7567.6,11465.0
+107,Kitchenware 2,Home & Living,Kitchenware,29916.08,37569.0
+108,Kitchenware 3,Home & Living,Kitchenware,19059.0,30816.0
+109,Kitchenware 4,Home & Living,Kitchenware,31670.37,39014.0
+110,Kitchenware 5,Home & Living,Kitchenware,6587.78,9439.0
+111,Bedding 1,Home & Living,Bedding,14028.92,22008.0
+112,Bedding 2,Home & Living,Bedding,9648.82,15025.0
+113,Bedding 3,Home & Living,Bedding,23523.36,38540.0
+114,Bedding 4,Home & Living,Bedding,9744.82,12890.0
+115,Bedding 5,Home & Living,Bedding,19083.03,24988.0
+116,Decor 1,Home & Living,Decor,12740.73,20748.0
+117,Decor 2,Home & Living,Decor,6054.83,7474.0
+118,Decor 3,Home & Living,Decor,4950.44,6835.0
+119,Decor 4,Home & Living,Decor,24195.29,38785.0
+120,Decor 5,Home & Living,Decor,26014.35,39698.0
+121,Storage 1,Home & Living,Storage,21117.22,33872.0
+122,Storage 2,Home & Living,Storage,25174.18,35665.0
+123,Storage 3,Home & Living,Storage,12314.63,18941.0
+124,Storage 4,Home & Living,Storage,8661.09,12842.0
+125,Storage 5,Home & Living,Storage,13255.82,16586.0
+126,Cables 1,Accessories,Cables,2378.03,3799.0
+127,Cables 2,Accessories,Cables,2197.31,3862.0
+128,Cables 3,Accessories,Cables,2098.26,2698.0
+129,Cables 4,Accessories,Cables,249.28,415.0
+130,Cables 5,Accessories,Cables,1057.28,1315.0
+131,Chargers 1,Accessories,Chargers,5021.7,7493.0
+132,Chargers 2,Accessories,Chargers,1101.22,1874.0
+133,Chargers 3,Accessories,Chargers,411.0,543.0
+134,Chargers 4,Accessories,Chargers,1260.7,2044.0
+135,Chargers 5,Accessories,Chargers,2289.67,3272.0
+136,Cases 1,Accessories,Cases,7844.01,9722.0
+137,Cases 2,Accessories,Cases,7304.1,9351.0
+138,Cases 3,Accessories,Cases,192.08,237.0
+139,Cases 4,Accessories,Cases,225.33,277.0
+140,Cases 5,Accessories,Cases,4753.37,6809.0
+141,Computer Accessories 1,Accessories,Computer Accessories,6272.2,9283.0
+142,Computer Accessories 2,Accessories,Computer Accessories,5509.14,6973.0
+143,Computer Accessories 3,Accessories,Computer Accessories,5500.47,8657.0
+144,Computer Accessories 4,Accessories,Computer Accessories,5064.76,8061.0
+145,Computer Accessories 5,Accessories,Computer Accessories,6728.16,8277.0
+146,Mobile Accessories 1,Accessories,Mobile Accessories,798.71,1397.0
+147,Mobile Accessories 2,Accessories,Mobile Accessories,683.74,900.0
+148,Mobile Accessories 3,Accessories,Mobile Accessories,2839.02,4036.0
+149,Mobile Accessories 4,Accessories,Mobile Accessories,2891.49,5133.0
+150,Mobile Accessories 5,Accessories,Mobile Accessories,5090.97,6663.0

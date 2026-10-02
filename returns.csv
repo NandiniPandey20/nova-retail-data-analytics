@@ -1,0 +1,3349 @@
+return_id,order_item_id,return_date,return_reason,return_quantity
+1,1,2024-01-17,Wrong product,1
+2,39,2024-02-01,Defective product,1
+3,66,2024-01-07,Defective product,1
+4,74,2024-01-15,Size issue,1
+5,100,2024-01-09,Wrong product,1
+6,101,2024-01-30,Changed mind,3
+7,110,2024-01-06,Wrong product,1
+8,115,2024-01-08,Wrong product,1
+9,134,2024-01-16,Size issue,1
+10,148,2024-01-19,Wrong product,2
+11,151,2024-01-26,Product damaged,2
+12,158,2024-01-28,Product not as expected,1
+13,170,2024-01-25,Wrong product,1
+14,173,2024-01-11,Size issue,1
+15,191,2024-01-26,Wrong product,1
+16,210,2024-01-08,Wrong product,1
+17,263,2024-02-07,Wrong product,1
+18,271,2024-02-07,Product damaged,1
+19,280,2024-01-15,Size issue,1
+20,281,2024-01-20,Size issue,2
+21,303,2024-02-05,Wrong product,2
+22,307,2024-01-26,Wrong product,1
+23,328,2024-02-01,Product not as expected,1
+24,343,2024-02-01,Size issue,1
+25,351,2024-02-09,Wrong product,1
+26,363,2024-02-09,Wrong product,3
+27,366,2024-01-21,Size issue,1
+28,391,2024-01-24,Product damaged,1
+29,393,2024-02-04,Changed mind,2
+30,404,2024-01-16,Defective product,2
+31,405,2024-02-02,Changed mind,1
+32,418,2024-02-11,Wrong product,1
+33,419,2024-01-17,Product not as expected,1
+34,428,2024-02-05,Size issue,1
+35,439,2024-01-21,Changed mind,1
+36,442,2024-01-30,Product damaged,1
+37,455,2024-01-22,Size issue,1
+38,464,2024-01-30,Size issue,2
+39,469,2024-02-07,Wrong product,1
+40,470,2024-01-22,Product damaged,1
+41,471,2024-01-17,Size issue,1
+42,534,2024-02-12,Size issue,1
+43,550,2024-02-07,Size issue,1
+44,579,2024-01-29,Size issue,1
+45,603,2024-01-20,Wrong product,2
+46,620,2024-02-06,Product not as expected,1
+47,622,2024-02-10,Product damaged,1
+48,634,2024-02-01,Size issue,1
+49,635,2024-01-27,Wrong product,2
+50,665,2024-01-26,Changed mind,1
+51,667,2024-02-01,Wrong product,1
+52,679,2024-02-07,Product damaged,1
+53,697,2024-01-25,Defective product,1
+54,707,2024-02-11,Size issue,1
+55,728,2024-01-30,Changed mind,1
+56,763,2024-02-05,Size issue,2
+57,768,2024-01-25,Changed mind,1
+58,775,2024-02-21,Product not as expected,1
+59,802,2024-01-29,Product damaged,1
+60,843,2024-02-12,Product damaged,1
+61,849,2024-02-04,Product not as expected,2
+62,871,2024-02-13,Size issue,1
+63,884,2024-02-11,Size issue,1
+64,896,2024-01-28,Wrong product,2
+65,899,2024-02-03,Defective product,1
+66,927,2024-02-08,Wrong product,1
+67,936,2024-02-05,Changed mind,2
+68,940,2024-02-11,Product not as expected,1
+69,1008,2024-02-06,Product not as expected,1
+70,1020,2024-02-17,Product not as expected,1
+71,1029,2024-02-17,Changed mind,2
+72,1032,2024-02-19,Wrong product,1
+73,1047,2024-02-25,Product damaged,1
+74,1050,2024-02-19,Defective product,2
+75,1054,2024-02-25,Size issue,2
+76,1061,2024-02-12,Product not as expected,1
+77,1072,2024-02-24,Wrong product,1
+78,1079,2024-02-28,Size issue,2
+79,1082,2024-02-06,Wrong product,1
+80,1088,2024-02-03,Size issue,1
+81,1094,2024-02-19,Changed mind,1
+82,1114,2024-02-23,Size issue,1
+83,1118,2024-02-16,Defective product,1
+84,1135,2024-02-03,Defective product,1
+85,1160,2024-02-15,Defective product,1
+86,1179,2024-02-17,Changed mind,1
+87,1187,2024-02-21,Size issue,2
+88,1192,2024-02-19,Defective product,1
+89,1255,2024-02-20,Wrong product,2
+90,1265,2024-02-23,Size issue,1
+91,1272,2024-02-12,Changed mind,2
+92,1277,2024-03-01,Product not as expected,1
+93,1283,2024-02-19,Size issue,1
+94,1293,2024-02-09,Size issue,1
+95,1316,2024-03-01,Defective product,1
+96,1321,2024-02-07,Size issue,3
+97,1354,2024-03-06,Size issue,1
+98,1367,2024-03-01,Wrong product,2
+99,1368,2024-02-22,Wrong product,1
+100,1384,2024-02-25,Defective product,1
+101,1388,2024-02-29,Product not as expected,1
+102,1405,2024-03-03,Product damaged,1
+103,1428,2024-03-07,Size issue,3
+104,1441,2024-02-22,Defective product,1
+105,1444,2024-03-07,Size issue,1
+106,1449,2024-02-23,Changed mind,1
+107,1505,2024-02-24,Product not as expected,1
+108,1516,2024-03-08,Size issue,3
+109,1521,2024-02-14,Size issue,1
+110,1526,2024-03-06,Product damaged,1
+111,1548,2024-03-04,Changed mind,1
+112,1573,2024-02-23,Wrong product,1
+113,1578,2024-02-26,Product not as expected,1
+114,1591,2024-02-23,Size issue,2
+115,1600,2024-02-22,Size issue,1
+116,1602,2024-02-20,Changed mind,2
+117,1604,2024-03-03,Wrong product,1
+118,1607,2024-02-21,Product damaged,1
+119,1614,2024-02-19,Size issue,1
+120,1632,2024-02-18,Changed mind,1
+121,1635,2024-02-24,Changed mind,3
+122,1636,2024-03-11,Changed mind,2
+123,1648,2024-03-03,Wrong product,1
+124,1661,2024-03-06,Defective product,1
+125,1666,2024-03-06,Size issue,1
+126,1667,2024-02-22,Defective product,1
+127,1678,2024-03-10,Changed mind,1
+128,1702,2024-02-28,Changed mind,1
+129,1704,2024-02-21,Defective product,1
+130,1721,2024-02-19,Wrong product,1
+131,1729,2024-03-01,Size issue,1
+132,1764,2024-02-23,Defective product,1
+133,1797,2024-03-03,Product damaged,1
+134,1814,2024-03-16,Product damaged,2
+135,1832,2024-02-28,Product damaged,3
+136,1838,2024-02-26,Product damaged,1
+137,1859,2024-03-07,Size issue,1
+138,1870,2024-02-27,Product damaged,1
+139,1876,2024-03-20,Size issue,1
+140,1878,2024-03-05,Wrong product,1
+141,1892,2024-03-14,Changed mind,1
+142,1935,2024-03-01,Defective product,1
+143,1942,2024-03-11,Defective product,1
+144,1945,2024-03-12,Defective product,2
+145,1948,2024-03-04,Product damaged,1
+146,1962,2024-03-09,Product damaged,1
+147,1964,2024-03-07,Wrong product,1
+148,1966,2024-03-15,Product not as expected,1
+149,1980,2024-03-21,Changed mind,1
+150,1981,2024-03-04,Size issue,2
+151,1982,2024-03-05,Product not as expected,1
+152,2012,2024-03-24,Product not as expected,3
+153,2026,2024-03-16,Product damaged,1
+154,2041,2024-03-21,Changed mind,1
+155,2061,2024-03-21,Wrong product,1
+156,2085,2024-03-24,Size issue,1
+157,2089,2024-03-08,Changed mind,1
+158,2093,2024-03-24,Product not as expected,1
+159,2124,2024-03-23,Product not as expected,1
+160,2129,2024-03-16,Product damaged,1
+161,2150,2024-03-06,Defective product,1
+162,2181,2024-03-11,Product not as expected,1
+163,2188,2024-03-15,Product damaged,2
+164,2190,2024-03-26,Wrong product,1
+165,2202,2024-03-20,Product not as expected,1
+166,2203,2024-03-18,Product not as expected,2
+167,2205,2024-03-11,Product damaged,1
+168,2234,2024-03-28,Wrong product,1
+169,2259,2024-03-05,Defective product,1
+170,2305,2024-04-01,Size issue,1
+171,2322,2024-03-04,Wrong product,1
+172,2330,2024-03-31,Product not as expected,1
+173,2339,2024-03-08,Size issue,1
+174,2361,2024-03-18,Wrong product,1
+175,2362,2024-03-06,Size issue,1
+176,2363,2024-03-24,Wrong product,2
+177,2364,2024-03-30,Changed mind,1
+178,2371,2024-04-01,Wrong product,1
+179,2392,2024-03-17,Defective product,1
+180,2403,2024-03-20,Size issue,1
+181,2404,2024-03-11,Defective product,1
+182,2408,2024-04-01,Product damaged,1
+183,2415,2024-03-16,Product not as expected,1
+184,2439,2024-03-27,Size issue,1
+185,2441,2024-03-13,Defective product,1
+186,2442,2024-03-09,Product damaged,1
+187,2461,2024-03-27,Product damaged,1
+188,2469,2024-03-11,Product not as expected,1
+189,2480,2024-03-21,Product damaged,2
+190,2497,2024-04-02,Changed mind,1
+191,2500,2024-03-11,Defective product,1
+192,2538,2024-04-05,Product damaged,1
+193,2542,2024-03-11,Size issue,1
+194,2547,2024-03-23,Product damaged,1
+195,2556,2024-03-23,Product not as expected,1
+196,2567,2024-04-01,Product not as expected,1
+197,2578,2024-03-20,Product not as expected,1
+198,2590,2024-03-27,Size issue,1
+199,2594,2024-04-05,Defective product,1
+200,2612,2024-03-30,Size issue,1
+201,2652,2024-03-13,Wrong product,2
+202,2654,2024-03-19,Product not as expected,1
+203,2676,2024-04-08,Product damaged,1
+204,2682,2024-04-06,Size issue,3
+205,2692,2024-03-16,Changed mind,1
+206,2695,2024-04-01,Changed mind,1
+207,2708,2024-04-02,Wrong product,2
+208,2711,2024-04-05,Wrong product,1
+209,2714,2024-03-16,Product not as expected,1
+210,2716,2024-03-30,Wrong product,2
+211,2766,2024-03-18,Size issue,2
+212,2767,2024-04-09,Defective product,1
+213,2768,2024-03-19,Changed mind,1
+214,2778,2024-04-09,Changed mind,3
+215,2779,2024-03-21,Changed mind,1
+216,2787,2024-04-02,Product not as expected,2
+217,2838,2024-04-14,Changed mind,1
+218,2842,2024-04-14,Product damaged,2
+219,2858,2024-04-07,Size issue,1
+220,2859,2024-04-06,Product not as expected,1
+221,2869,2024-03-28,Defective product,1
+222,2875,2024-04-12,Changed mind,2
+223,2878,2024-04-15,Wrong product,1
+224,2880,2024-03-28,Size issue,1
+225,2909,2024-03-19,Defective product,2
+226,2918,2024-04-14,Defective product,1
+227,2930,2024-04-04,Defective product,2
+228,2937,2024-04-17,Defective product,2
+229,2949,2024-04-08,Changed mind,1
+230,2971,2024-04-09,Changed mind,1
+231,2977,2024-04-08,Wrong product,2
+232,2985,2024-04-02,Changed mind,3
+233,2986,2024-04-01,Changed mind,1
+234,3010,2024-04-19,Defective product,1
+235,3023,2024-04-15,Size issue,1
+236,3030,2024-04-09,Defective product,2
+237,3056,2024-04-04,Size issue,1
+238,3059,2024-03-30,Product not as expected,1
+239,3067,2024-03-28,Defective product,1
+240,3092,2024-04-09,Changed mind,1
+241,3095,2024-04-20,Defective product,1
+242,3096,2024-04-07,Product not as expected,1
+243,3102,2024-04-16,Size issue,1
+244,3103,2024-03-31,Size issue,1
+245,3110,2024-04-12,Wrong product,1
+246,3112,2024-03-29,Changed mind,1
+247,3123,2024-04-12,Defective product,2
+248,3130,2024-04-04,Changed mind,1
+249,3143,2024-04-20,Product not as expected,1
+250,3144,2024-03-31,Wrong product,3
+251,3160,2024-04-12,Product not as expected,1
+252,3167,2024-04-18,Defective product,1
+253,3183,2024-03-31,Wrong product,1
+254,3189,2024-04-21,Changed mind,1
+255,3215,2024-04-07,Wrong product,1
+256,3219,2024-04-10,Product not as expected,1
+257,3224,2024-04-18,Product not as expected,3
+258,3243,2024-04-09,Product not as expected,1
+259,3251,2024-04-05,Product damaged,3
+260,3257,2024-04-21,Wrong product,1
+261,3262,2024-03-30,Size issue,1
+262,3301,2024-04-15,Wrong product,2
+263,3317,2024-03-31,Defective product,1
+264,3349,2024-04-21,Product not as expected,1
+265,3351,2024-04-23,Wrong product,1
+266,3368,2024-04-27,Wrong product,1
+267,3374,2024-04-25,Wrong product,1
+268,3380,2024-04-09,Size issue,1
+269,3385,2024-04-07,Wrong product,1
+270,3414,2024-04-06,Wrong product,2
+271,3422,2024-04-20,Product damaged,1
+272,3423,2024-04-16,Size issue,2
+273,3461,2024-04-03,Defective product,2
+274,3491,2024-04-15,Wrong product,1
+275,3495,2024-04-16,Size issue,1
+276,3515,2024-04-10,Changed mind,1
+277,3538,2024-04-15,Product damaged,1
+278,3540,2024-04-25,Product not as expected,2
+279,3550,2024-04-18,Changed mind,1
+280,3578,2024-04-19,Defective product,4
+281,3592,2024-04-25,Defective product,1
+282,3627,2024-04-08,Defective product,1
+283,3630,2024-04-08,Size issue,1
+284,3644,2024-04-25,Defective product,1
+285,3653,2024-04-21,Product not as expected,1
+286,3677,2024-04-25,Size issue,1
+287,3700,2024-04-13,Wrong product,1
+288,3750,2024-04-14,Size issue,1
+289,3768,2024-04-28,Product not as expected,2
+290,3770,2024-05-04,Wrong product,2
+291,3781,2024-04-18,Product not as expected,1
+292,3784,2024-04-24,Defective product,1
+293,3792,2024-05-10,Changed mind,1
+294,3793,2024-05-04,Changed mind,2
+295,3818,2024-05-01,Product damaged,1
+296,3826,2024-05-07,Defective product,1
+297,3830,2024-05-04,Changed mind,2
+298,3832,2024-05-08,Product damaged,1
+299,3843,2024-04-14,Wrong product,1
+300,3850,2024-04-25,Product not as expected,1
+301,3888,2024-04-17,Wrong product,2
+302,3891,2024-04-16,Product damaged,3
+303,3901,2024-04-29,Product not as expected,1
+304,3931,2024-04-19,Product not as expected,1
+305,3967,2024-04-18,Size issue,1
+306,3976,2024-05-14,Defective product,1
+307,3985,2024-04-28,Defective product,2
+308,3989,2024-05-08,Changed mind,2
+309,3997,2024-05-04,Defective product,1
+310,4009,2024-05-16,Size issue,1
+311,4011,2024-05-08,Product damaged,2
+312,4022,2024-05-03,Changed mind,1
+313,4024,2024-05-10,Product damaged,2
+314,4026,2024-05-10,Wrong product,1
+315,4036,2024-04-26,Product not as expected,1
+316,4041,2024-04-21,Defective product,1
+317,4042,2024-05-16,Size issue,1
+318,4055,2024-04-20,Product damaged,1
+319,4065,2024-05-05,Product damaged,1
+320,4066,2024-05-05,Product damaged,1
+321,4067,2024-05-15,Product damaged,2
+322,4070,2024-05-17,Wrong product,1
+323,4093,2024-05-13,Product damaged,2
+324,4130,2024-05-19,Product not as expected,1
+325,4134,2024-05-03,Product not as expected,1
+326,4137,2024-04-30,Defective product,1
+327,4195,2024-05-02,Changed mind,1
+328,4202,2024-05-09,Wrong product,1
+329,4214,2024-05-11,Defective product,1
+330,4216,2024-05-01,Changed mind,1
+331,4257,2024-05-20,Defective product,1
+332,4258,2024-04-26,Size issue,1
+333,4275,2024-05-16,Product not as expected,2
+334,4292,2024-05-03,Defective product,2
+335,4294,2024-05-13,Product not as expected,1
+336,4301,2024-04-26,Wrong product,1
+337,4308,2024-05-04,Size issue,1
+338,4339,2024-05-12,Wrong product,2
+339,4342,2024-05-12,Defective product,1
+340,4359,2024-05-15,Product damaged,1
+341,4378,2024-05-21,Changed mind,2
+342,4391,2024-05-05,Product damaged,1
+343,4404,2024-05-10,Wrong product,1
+344,4456,2024-05-07,Wrong product,1
+345,4471,2024-05-07,Defective product,2
+346,4481,2024-05-25,Changed mind,1
+347,4484,2024-05-24,Size issue,1
+348,4487,2024-05-04,Product damaged,2
+349,4501,2024-05-25,Product damaged,2
+350,4512,2024-05-17,Product not as expected,2
+351,4517,2024-05-11,Product damaged,1
+352,4518,2024-05-05,Changed mind,1
+353,4544,2024-05-10,Wrong product,1
+354,4558,2024-05-26,Changed mind,1
+355,4562,2024-05-15,Wrong product,1
+356,4567,2024-05-25,Defective product,1
+357,4582,2024-05-15,Wrong product,1
+358,4611,2024-05-18,Size issue,1
+359,4621,2024-05-28,Size issue,1
+360,4624,2024-05-25,Product not as expected,1
+361,4626,2024-05-13,Product damaged,1
+362,4646,2024-05-27,Changed mind,1
+363,4655,2024-05-25,Changed mind,2
+364,4664,2024-05-11,Product damaged,2
+365,4669,2024-05-07,Size issue,1
+366,4671,2024-05-16,Defective product,2
+367,4685,2024-05-24,Size issue,1
+368,4719,2024-06-03,Defective product,2
+369,4722,2024-05-28,Wrong product,1
+370,4739,2024-05-28,Product not as expected,1
+371,4768,2024-05-30,Defective product,1
+372,4776,2024-06-01,Product damaged,1
+373,4782,2024-05-30,Changed mind,1
+374,4802,2024-05-28,Defective product,1
+375,4843,2024-05-31,Changed mind,1
+376,4890,2024-05-29,Size issue,1
+377,4904,2024-05-26,Product damaged,1
+378,4918,2024-05-13,Product damaged,1
+379,4919,2024-05-29,Changed mind,1
+380,4928,2024-05-17,Product not as expected,1
+381,4931,2024-06-04,Defective product,1
+382,4964,2024-06-04,Defective product,1
+383,4972,2024-06-01,Product damaged,1
+384,4991,2024-05-23,Changed mind,1
+385,4998,2024-06-07,Size issue,1
+386,5012,2024-06-05,Wrong product,1
+387,5020,2024-05-23,Wrong product,1
+388,5028,2024-05-25,Wrong product,1
+389,5033,2024-05-30,Product not as expected,3
+390,5069,2024-05-18,Product damaged,1
+391,5155,2024-05-22,Size issue,2
+392,5174,2024-05-17,Product damaged,2
+393,5181,2024-05-19,Size issue,2
+394,5189,2024-05-19,Wrong product,1
+395,5190,2024-06-15,Wrong product,1
+396,5191,2024-06-04,Changed mind,1
+397,5198,2024-06-14,Size issue,1
+398,5201,2024-06-02,Size issue,1
+399,5218,2024-06-01,Defective product,1
+400,5229,2024-06-08,Wrong product,1
+401,5255,2024-05-20,Product not as expected,1
+402,5284,2024-05-28,Wrong product,1
+403,5292,2024-05-24,Size issue,1
+404,5306,2024-06-02,Defective product,1
+405,5314,2024-06-13,Changed mind,1
+406,5319,2024-06-15,Changed mind,1
+407,5324,2024-06-05,Defective product,1
+408,5344,2024-06-05,Defective product,1
+409,5345,2024-06-04,Size issue,1
+410,5360,2024-05-30,Wrong product,1
+411,5397,2024-05-28,Wrong product,1
+412,5402,2024-05-25,Size issue,1
+413,5406,2024-05-22,Size issue,1
+414,5411,2024-05-31,Defective product,1
+415,5415,2024-06-09,Changed mind,1
+416,5426,2024-06-10,Defective product,1
+417,5441,2024-06-20,Size issue,1
+418,5452,2024-05-26,Product not as expected,2
+419,5475,2024-06-03,Product damaged,2
+420,5485,2024-06-14,Product damaged,1
+421,5492,2024-06-05,Changed mind,1
+422,5493,2024-06-18,Defective product,1
+423,5498,2024-06-16,Product damaged,2
+424,5527,2024-06-02,Defective product,1
+425,5541,2024-06-17,Product not as expected,2
+426,5542,2024-06-17,Size issue,1
+427,5548,2024-05-31,Product not as expected,1
+428,5576,2024-05-28,Changed mind,3
+429,5581,2024-05-28,Wrong product,1
+430,5582,2024-06-23,Wrong product,1
+431,5597,2024-06-02,Defective product,1
+432,5615,2024-06-10,Size issue,1
+433,5627,2024-06-09,Changed mind,1
+434,5655,2024-06-15,Defective product,2
+435,5659,2024-06-12,Defective product,2
+436,5720,2024-06-05,Defective product,1
+437,5729,2024-06-06,Size issue,1
+438,5734,2024-06-01,Product damaged,1
+439,5763,2024-06-26,Product damaged,1
+440,5771,2024-06-15,Product not as expected,1
+441,5784,2024-06-08,Size issue,1
+442,5788,2024-06-27,Changed mind,1
+443,5797,2024-06-14,Wrong product,1
+444,5800,2024-06-04,Changed mind,1
+445,5805,2024-06-24,Size issue,2
+446,5815,2024-06-08,Defective product,1
+447,5853,2024-06-05,Wrong product,1
+448,5875,2024-06-18,Size issue,1
+449,5881,2024-06-21,Product not as expected,1
+450,5889,2024-06-08,Size issue,1
+451,5892,2024-06-11,Product not as expected,1
+452,5893,2024-06-21,Changed mind,1
+453,5903,2024-06-29,Changed mind,1
+454,5918,2024-06-10,Changed mind,1
+455,5965,2024-07-02,Product not as expected,2
+456,5980,2024-06-14,Product not as expected,1
+457,5983,2024-06-20,Product not as expected,1
+458,5989,2024-06-15,Product damaged,1
+459,5996,2024-06-20,Size issue,3
+460,6012,2024-06-14,Product not as expected,1
+461,6049,2024-07-01,Changed mind,1
+462,6051,2024-06-10,Defective product,1
+463,6056,2024-06-24,Size issue,1
+464,6068,2024-06-11,Changed mind,1
+465,6073,2024-06-22,Wrong product,1
+466,6093,2024-06-17,Product not as expected,1
+467,6096,2024-07-06,Changed mind,2
+468,6101,2024-07-08,Defective product,1
+469,6106,2024-06-21,Size issue,1
+470,6114,2024-07-04,Changed mind,1
+471,6132,2024-06-19,Product damaged,1
+472,6133,2024-06-20,Changed mind,1
+473,6149,2024-06-20,Defective product,1
+474,6157,2024-06-25,Product not as expected,1
+475,6167,2024-07-04,Changed mind,1
+476,6168,2024-06-18,Defective product,2
+477,6198,2024-07-03,Defective product,1
+478,6207,2024-06-27,Changed mind,1
+479,6239,2024-06-19,Size issue,2
+480,6246,2024-06-19,Changed mind,1
+481,6253,2024-06-30,Product damaged,2
+482,6254,2024-06-19,Product damaged,1
+483,6261,2024-06-20,Product damaged,1
+484,6284,2024-06-21,Defective product,1
+485,6290,2024-06-21,Product not as expected,1
+486,6327,2024-06-22,Product damaged,1
+487,6355,2024-06-16,Defective product,3
+488,6364,2024-06-20,Product damaged,1
+489,6386,2024-06-21,Wrong product,1
+490,6394,2024-07-01,Defective product,2
+491,6432,2024-06-24,Defective product,1
+492,6467,2024-07-07,Changed mind,3
+493,6469,2024-06-28,Changed mind,1
+494,6479,2024-06-19,Product not as expected,4
+495,6506,2024-07-02,Product not as expected,1
+496,6521,2024-07-09,Changed mind,1
+497,6527,2024-07-08,Defective product,1
+498,6537,2024-06-30,Product damaged,1
+499,6551,2024-06-21,Changed mind,1
+500,6559,2024-06-23,Defective product,1
+501,6570,2024-07-09,Defective product,1
+502,6577,2024-07-10,Changed mind,1
+503,6592,2024-07-20,Size issue,1
+504,6598,2024-07-01,Changed mind,1
+505,6610,2024-07-05,Product damaged,1
+506,6613,2024-06-26,Product damaged,1
+507,6618,2024-07-18,Defective product,1
+508,6624,2024-07-15,Changed mind,1
+509,6634,2024-07-19,Product damaged,1
+510,6636,2024-07-21,Wrong product,2
+511,6645,2024-07-02,Changed mind,1
+512,6659,2024-06-29,Wrong product,1
+513,6661,2024-06-26,Size issue,1
+514,6669,2024-07-10,Product damaged,1
+515,6675,2024-07-13,Wrong product,1
+516,6680,2024-07-17,Product damaged,1
+517,6683,2024-06-26,Product damaged,3
+518,6688,2024-07-06,Wrong product,1
+519,6691,2024-07-17,Defective product,1
+520,6696,2024-06-29,Wrong product,1
+521,6703,2024-07-03,Product damaged,1
+522,6710,2024-07-02,Wrong product,1
+523,6725,2024-07-06,Changed mind,1
+524,6750,2024-06-30,Wrong product,1
+525,6777,2024-07-08,Product damaged,3
+526,6784,2024-07-07,Product damaged,1
+527,6811,2024-07-14,Changed mind,1
+528,6816,2024-07-03,Changed mind,1
+529,6820,2024-06-29,Wrong product,2
+530,6823,2024-07-24,Product not as expected,1
+531,6826,2024-07-24,Wrong product,1
+532,6828,2024-07-11,Product damaged,1
+533,6835,2024-07-28,Changed mind,1
+534,6857,2024-07-27,Defective product,1
+535,6861,2024-07-24,Size issue,1
+536,6869,2024-07-04,Product not as expected,2
+537,6870,2024-07-02,Defective product,1
+538,6881,2024-07-19,Changed mind,1
+539,6886,2024-07-18,Changed mind,2
+540,6907,2024-07-06,Wrong product,2
+541,6930,2024-07-29,Size issue,1
+542,6935,2024-07-30,Product damaged,1
+543,6962,2024-07-03,Changed mind,1
+544,6963,2024-07-19,Changed mind,1
+545,6974,2024-07-23,Defective product,2
+546,6982,2024-07-15,Size issue,2
+547,6987,2024-07-14,Defective product,1
+548,7000,2024-07-08,Changed mind,1
+549,7031,2024-07-25,Product not as expected,1
+550,7042,2024-07-13,Size issue,2
+551,7049,2024-07-16,Changed mind,1
+552,7054,2024-07-25,Changed mind,1
+553,7057,2024-07-24,Product not as expected,1
+554,7060,2024-07-16,Size issue,1
+555,7064,2024-07-26,Size issue,1
+556,7069,2024-07-08,Product damaged,1
+557,7072,2024-07-28,Wrong product,1
+558,7083,2024-07-22,Product not as expected,1
+559,7091,2024-07-29,Changed mind,1
+560,7122,2024-07-24,Product damaged,1
+561,7124,2024-07-18,Size issue,1
+562,7143,2024-07-22,Changed mind,1
+563,7153,2024-07-26,Wrong product,2
+564,7171,2024-07-08,Changed mind,1
+565,7200,2024-07-10,Size issue,1
+566,7213,2024-07-22,Product damaged,1
+567,7229,2024-07-14,Product not as expected,1
+568,7240,2024-07-29,Size issue,1
+569,7244,2024-07-19,Defective product,1
+570,7264,2024-08-05,Defective product,1
+571,7278,2024-07-25,Wrong product,1
+572,7317,2024-07-18,Product damaged,2
+573,7327,2024-07-17,Size issue,2
+574,7339,2024-08-01,Changed mind,1
+575,7350,2024-07-22,Wrong product,1
+576,7365,2024-07-18,Product damaged,1
+577,7367,2024-08-07,Wrong product,1
+578,7382,2024-08-01,Size issue,1
+579,7392,2024-07-15,Size issue,1
+580,7404,2024-07-30,Defective product,1
+581,7415,2024-08-07,Changed mind,1
+582,7416,2024-08-07,Wrong product,1
+583,7441,2024-08-07,Size issue,1
+584,7450,2024-07-23,Size issue,1
+585,7451,2024-07-31,Wrong product,1
+586,7456,2024-07-16,Defective product,2
+587,7462,2024-08-04,Product damaged,1
+588,7491,2024-08-12,Product damaged,1
+589,7531,2024-08-09,Size issue,1
+590,7558,2024-08-13,Product damaged,1
+591,7566,2024-08-16,Wrong product,1
+592,7574,2024-08-16,Size issue,1
+593,7577,2024-08-14,Product not as expected,2
+594,7581,2024-08-14,Product not as expected,2
+595,7582,2024-07-31,Changed mind,1
+596,7594,2024-07-20,Product damaged,1
+597,7595,2024-07-23,Product damaged,1
+598,7603,2024-08-10,Product not as expected,1
+599,7611,2024-08-05,Wrong product,1
+600,7612,2024-08-14,Wrong product,1
+601,7615,2024-08-03,Product not as expected,1
+602,7637,2024-08-05,Changed mind,1
+603,7639,2024-08-04,Changed mind,1
+604,7648,2024-07-27,Changed mind,1
+605,7663,2024-08-18,Product not as expected,1
+606,7664,2024-08-02,Product damaged,1
+607,7674,2024-08-02,Wrong product,1
+608,7678,2024-07-27,Size issue,1
+609,7680,2024-08-18,Changed mind,1
+610,7687,2024-07-25,Product damaged,2
+611,7699,2024-07-28,Product damaged,1
+612,7733,2024-08-07,Product damaged,1
+613,7745,2024-08-02,Product not as expected,3
+614,7837,2024-08-06,Changed mind,1
+615,7848,2024-08-04,Changed mind,1
+616,7850,2024-08-15,Size issue,2
+617,7852,2024-08-12,Product not as expected,3
+618,7853,2024-08-21,Product not as expected,1
+619,7893,2024-08-14,Wrong product,1
+620,7894,2024-08-12,Defective product,1
+621,7895,2024-07-31,Changed mind,1
+622,7906,2024-08-06,Product damaged,1
+623,7914,2024-08-01,Product not as expected,1
+624,7923,2024-08-25,Size issue,1
+625,7935,2024-08-13,Product not as expected,1
+626,7937,2024-07-30,Product not as expected,1
+627,7943,2024-08-10,Defective product,2
+628,7962,2024-08-08,Changed mind,1
+629,7968,2024-07-31,Product damaged,2
+630,7970,2024-08-11,Product not as expected,1
+631,7981,2024-08-15,Size issue,1
+632,7992,2024-08-05,Product damaged,1
+633,8048,2024-08-11,Product not as expected,1
+634,8049,2024-08-21,Changed mind,1
+635,8082,2024-08-20,Changed mind,1
+636,8090,2024-08-16,Size issue,1
+637,8100,2024-08-19,Changed mind,1
+638,8101,2024-08-19,Defective product,1
+639,8107,2024-08-10,Defective product,1
+640,8108,2024-08-20,Wrong product,1
+641,8127,2024-08-19,Wrong product,1
+642,8223,2024-08-26,Product damaged,1
+643,8236,2024-08-28,Wrong product,1
+644,8245,2024-08-26,Size issue,1
+645,8246,2024-08-21,Product not as expected,2
+646,8254,2024-09-01,Size issue,1
+647,8260,2024-08-07,Defective product,3
+648,8273,2024-08-16,Wrong product,2
+649,8304,2024-08-09,Product not as expected,1
+650,8334,2024-08-14,Size issue,1
+651,8396,2024-09-03,Defective product,1
+652,8409,2024-08-30,Defective product,1
+653,8422,2024-08-23,Changed mind,1
+654,8425,2024-08-28,Product not as expected,1
+655,8433,2024-08-23,Size issue,1
+656,8450,2024-08-27,Product not as expected,1
+657,8457,2024-09-03,Defective product,1
+658,8485,2024-09-02,Product damaged,1
+659,8524,2024-09-08,Product damaged,1
+660,8527,2024-08-17,Product not as expected,1
+661,8537,2024-08-19,Changed mind,1
+662,8540,2024-09-07,Size issue,1
+663,8570,2024-08-31,Product not as expected,1
+664,8572,2024-09-05,Product not as expected,1
+665,8608,2024-09-08,Changed mind,1
+666,8611,2024-09-11,Product damaged,1
+667,8617,2024-09-06,Wrong product,1
+668,8629,2024-09-06,Defective product,1
+669,8651,2024-09-12,Changed mind,1
+670,8652,2024-08-31,Product damaged,3
+671,8654,2024-09-11,Product not as expected,1
+672,8659,2024-08-22,Wrong product,1
+673,8667,2024-08-30,Defective product,1
+674,8668,2024-08-27,Product damaged,1
+675,8687,2024-09-09,Product damaged,1
+676,8692,2024-08-23,Wrong product,1
+677,8700,2024-09-09,Wrong product,1
+678,8718,2024-09-10,Size issue,1
+679,8727,2024-08-19,Product damaged,1
+680,8732,2024-08-29,Product damaged,1
+681,8741,2024-08-23,Product damaged,1
+682,8751,2024-09-03,Changed mind,1
+683,8756,2024-09-07,Size issue,1
+684,8764,2024-09-16,Defective product,1
+685,8775,2024-08-24,Changed mind,1
+686,8818,2024-09-07,Changed mind,1
+687,8819,2024-08-23,Product not as expected,1
+688,8820,2024-08-29,Changed mind,1
+689,8826,2024-09-04,Defective product,1
+690,8858,2024-08-27,Defective product,1
+691,8862,2024-09-18,Product not as expected,1
+692,8896,2024-09-08,Size issue,1
+693,8904,2024-09-04,Size issue,1
+694,8905,2024-09-13,Changed mind,1
+695,8907,2024-08-24,Product not as expected,1
+696,8909,2024-08-24,Size issue,1
+697,8948,2024-08-24,Wrong product,1
+698,8954,2024-09-20,Size issue,1
+699,8956,2024-09-02,Wrong product,1
+700,8967,2024-09-20,Wrong product,1
+701,8979,2024-08-26,Defective product,1
+702,8982,2024-09-01,Product not as expected,1
+703,8993,2024-09-03,Product damaged,1
+704,9007,2024-09-06,Product not as expected,2
+705,9021,2024-09-07,Size issue,1
+706,9045,2024-09-04,Defective product,1
+707,9064,2024-09-11,Wrong product,1
+708,9082,2024-08-30,Changed mind,1
+709,9099,2024-09-25,Defective product,2
+710,9109,2024-09-23,Size issue,1
+711,9115,2024-09-14,Product not as expected,1
+712,9116,2024-08-29,Wrong product,2
+713,9122,2024-09-15,Product damaged,1
+714,9123,2024-09-01,Product damaged,1
+715,9163,2024-09-21,Size issue,1
+716,9164,2024-09-20,Size issue,4
+717,9175,2024-09-07,Product not as expected,2
+718,9193,2024-09-20,Wrong product,1
+719,9228,2024-09-25,Product damaged,1
+720,9234,2024-09-05,Changed mind,1
+721,9241,2024-09-22,Defective product,1
+722,9271,2024-09-18,Product not as expected,1
+723,9278,2024-09-29,Defective product,2
+724,9283,2024-09-15,Size issue,1
+725,9284,2024-09-16,Wrong product,1
+726,9287,2024-09-25,Size issue,1
+727,9288,2024-09-24,Wrong product,1
+728,9307,2024-09-16,Changed mind,1
+729,9319,2024-09-12,Defective product,1
+730,9335,2024-09-07,Product not as expected,2
+731,9374,2024-09-17,Product not as expected,1
+732,9401,2024-09-25,Product not as expected,2
+733,9421,2024-09-26,Size issue,2
+734,9461,2024-09-26,Wrong product,1
+735,9480,2024-09-27,Product damaged,1
+736,9497,2024-09-26,Wrong product,1
+737,9534,2024-10-06,Product damaged,3
+738,9537,2024-10-06,Changed mind,3
+739,9544,2024-09-15,Product damaged,1
+740,9554,2024-10-09,Wrong product,1
+741,9556,2024-09-23,Changed mind,1
+742,9564,2024-09-14,Changed mind,1
+743,9581,2024-10-10,Wrong product,2
+744,9599,2024-09-27,Product damaged,2
+745,9607,2024-10-10,Size issue,1
+746,9610,2024-09-29,Size issue,1
+747,9622,2024-09-19,Defective product,1
+748,9634,2024-09-30,Product damaged,1
+749,9650,2024-09-16,Product not as expected,1
+750,9654,2024-09-15,Defective product,1
+751,9699,2024-10-07,Product damaged,1
+752,9702,2024-09-25,Defective product,1
+753,9716,2024-09-19,Defective product,1
+754,9720,2024-10-04,Size issue,1
+755,9721,2024-09-23,Wrong product,1
+756,9723,2024-09-28,Product not as expected,1
+757,9725,2024-10-01,Size issue,1
+758,9745,2024-09-25,Wrong product,1
+759,9749,2024-10-14,Product damaged,1
+760,9763,2024-09-21,Product damaged,2
+761,9785,2024-09-26,Wrong product,2
+762,9789,2024-09-23,Product not as expected,1
+763,9793,2024-09-28,Size issue,2
+764,9809,2024-10-04,Changed mind,1
+765,9815,2024-10-16,Defective product,1
+766,9818,2024-10-14,Changed mind,1
+767,9827,2024-10-12,Wrong product,1
+768,9855,2024-09-20,Size issue,2
+769,9884,2024-09-29,Defective product,1
+770,9889,2024-10-05,Changed mind,1
+771,9894,2024-09-20,Product damaged,1
+772,9902,2024-10-05,Size issue,1
+773,9909,2024-10-03,Size issue,1
+774,9927,2024-09-29,Size issue,1
+775,9930,2024-10-06,Defective product,2
+776,9942,2024-10-02,Product not as expected,1
+777,9957,2024-09-29,Wrong product,2
+778,9983,2024-09-25,Defective product,1
+779,9993,2024-10-16,Size issue,1
+780,10003,2024-10-04,Changed mind,1
+781,10008,2024-10-19,Defective product,1
+782,10009,2024-10-14,Changed mind,1
+783,10046,2024-09-29,Product damaged,1
+784,10048,2024-09-25,Defective product,3
+785,10070,2024-10-19,Product damaged,1
+786,10075,2024-10-21,Defective product,2
+787,10085,2024-09-26,Product damaged,1
+788,10091,2024-10-11,Wrong product,2
+789,10102,2024-10-21,Product not as expected,1
+790,10126,2024-10-19,Product damaged,1
+791,10129,2024-10-06,Size issue,2
+792,10167,2024-10-02,Wrong product,1
+793,10170,2024-10-01,Wrong product,1
+794,10177,2024-10-21,Size issue,1
+795,10182,2024-09-29,Defective product,1
+796,10183,2024-10-12,Size issue,1
+797,10185,2024-10-09,Defective product,2
+798,10210,2024-10-27,Changed mind,1
+799,10211,2024-10-25,Changed mind,1
+800,10256,2024-10-02,Product damaged,1
+801,10268,2024-10-19,Wrong product,1
+802,10285,2024-10-06,Changed mind,1
+803,10286,2024-10-08,Product damaged,1
+804,10290,2024-10-05,Changed mind,1
+805,10297,2024-10-26,Product damaged,1
+806,10309,2024-10-15,Product damaged,3
+807,10313,2024-10-06,Product damaged,2
+808,10314,2024-10-28,Wrong product,1
+809,10332,2024-10-27,Product damaged,1
+810,10341,2024-10-12,Changed mind,1
+811,10380,2024-10-24,Product not as expected,1
+812,10386,2024-10-23,Wrong product,1
+813,10389,2024-10-18,Product damaged,1
+814,10424,2024-10-09,Size issue,1
+815,10445,2024-10-28,Size issue,1
+816,10447,2024-10-05,Defective product,1
+817,10452,2024-10-05,Size issue,1
+818,10459,2024-10-13,Changed mind,1
+819,10496,2024-10-16,Wrong product,2
+820,10508,2024-10-07,Wrong product,1
+821,10512,2024-10-22,Product not as expected,2
+822,10528,2024-10-13,Product not as expected,1
+823,10535,2024-11-03,Defective product,1
+824,10550,2024-10-19,Wrong product,1
+825,10554,2024-10-21,Defective product,2
+826,10569,2024-10-30,Defective product,1
+827,10580,2024-10-31,Size issue,1
+828,10583,2024-10-20,Wrong product,1
+829,10589,2024-10-09,Product not as expected,1
+830,10591,2024-10-25,Product not as expected,1
+831,10595,2024-10-09,Defective product,1
+832,10599,2024-10-20,Defective product,2
+833,10600,2024-10-09,Product not as expected,1
+834,10621,2024-10-18,Defective product,3
+835,10626,2024-11-02,Size issue,2
+836,10631,2024-10-26,Size issue,2
+837,10660,2024-10-15,Wrong product,1
+838,10680,2024-11-06,Product not as expected,1
+839,10686,2024-10-29,Size issue,1
+840,10688,2024-11-05,Product not as expected,1
+841,10690,2024-11-03,Defective product,3
+842,10702,2024-10-23,Defective product,1
+843,10711,2024-10-18,Size issue,1
+844,10720,2024-11-09,Wrong product,1
+845,10736,2024-11-01,Defective product,1
+846,10753,2024-10-22,Size issue,2
+847,10762,2024-11-08,Product not as expected,1
+848,10775,2024-11-05,Defective product,1
+849,10778,2024-10-13,Size issue,2
+850,10781,2024-10-25,Product damaged,2
+851,10788,2024-10-24,Wrong product,1
+852,10790,2024-10-25,Size issue,1
+853,10796,2024-11-01,Wrong product,1
+854,10812,2024-11-08,Wrong product,1
+855,10823,2024-11-07,Size issue,1
+856,10825,2024-11-01,Defective product,2
+857,10835,2024-11-07,Size issue,2
+858,10838,2024-11-06,Wrong product,3
+859,10866,2024-10-15,Defective product,1
+860,10924,2024-10-23,Product not as expected,1
+861,10925,2024-11-03,Wrong product,1
+862,10936,2024-11-07,Defective product,1
+863,10957,2024-11-11,Wrong product,1
+864,10960,2024-10-21,Size issue,3
+865,10968,2024-10-28,Wrong product,1
+866,10982,2024-10-25,Wrong product,1
+867,10984,2024-11-06,Product damaged,1
+868,10996,2024-11-12,Product not as expected,1
+869,11007,2024-11-15,Product damaged,1
+870,11022,2024-11-09,Defective product,2
+871,11024,2024-11-02,Changed mind,1
+872,11032,2024-10-26,Defective product,4
+873,11038,2024-10-29,Product damaged,1
+874,11100,2024-11-09,Wrong product,1
+875,11138,2024-11-19,Product not as expected,1
+876,11139,2024-11-14,Wrong product,1
+877,11176,2024-10-27,Product damaged,1
+878,11181,2024-11-13,Defective product,2
+879,11195,2024-11-20,Product not as expected,1
+880,11235,2024-11-15,Product not as expected,2
+881,11267,2024-10-30,Product damaged,1
+882,11269,2024-11-09,Size issue,2
+883,11277,2024-11-05,Size issue,1
+884,11305,2024-11-16,Product not as expected,1
+885,11308,2024-11-11,Changed mind,1
+886,11309,2024-11-15,Product not as expected,1
+887,11313,2024-11-16,Changed mind,4
+888,11319,2024-11-21,Changed mind,1
+889,11326,2024-11-14,Product damaged,1
+890,11327,2024-11-21,Wrong product,1
+891,11336,2024-11-15,Product not as expected,1
+892,11341,2024-10-30,Defective product,1
+893,11344,2024-11-08,Product not as expected,1
+894,11351,2024-11-09,Defective product,1
+895,11373,2024-11-06,Changed mind,1
+896,11388,2024-11-11,Defective product,1
+897,11389,2024-11-17,Changed mind,1
+898,11407,2024-11-11,Defective product,1
+899,11410,2024-11-18,Defective product,1
+900,11419,2024-11-06,Product not as expected,1
+901,11422,2024-10-31,Product damaged,2
+902,11432,2024-11-07,Changed mind,1
+903,11437,2024-11-12,Product not as expected,1
+904,11445,2024-11-23,Product damaged,1
+905,11447,2024-11-19,Product damaged,1
+906,11448,2024-11-08,Changed mind,1
+907,11451,2024-11-21,Defective product,2
+908,11452,2024-11-28,Product not as expected,1
+909,11453,2024-11-11,Wrong product,2
+910,11457,2024-11-04,Defective product,1
+911,11458,2024-11-16,Product damaged,1
+912,11468,2024-11-09,Defective product,1
+913,11470,2024-11-27,Wrong product,1
+914,11491,2024-11-15,Size issue,2
+915,11506,2024-11-06,Wrong product,1
+916,11507,2024-11-15,Size issue,1
+917,11510,2024-11-25,Defective product,1
+918,11520,2024-11-29,Product damaged,1
+919,11523,2024-11-10,Changed mind,1
+920,11524,2024-11-18,Size issue,1
+921,11526,2024-11-19,Changed mind,1
+922,11532,2024-11-18,Size issue,2
+923,11540,2024-11-27,Size issue,1
+924,11554,2024-11-06,Changed mind,1
+925,11561,2024-11-13,Defective product,1
+926,11597,2024-11-04,Defective product,1
+927,11606,2024-11-07,Changed mind,1
+928,11609,2024-11-26,Product not as expected,1
+929,11613,2024-12-01,Defective product,1
+930,11632,2024-11-14,Wrong product,1
+931,11643,2024-11-26,Product not as expected,3
+932,11676,2024-11-11,Product damaged,1
+933,11678,2024-11-21,Changed mind,1
+934,11684,2024-11-08,Defective product,1
+935,11734,2024-12-03,Changed mind,1
+936,11746,2024-11-07,Defective product,2
+937,11753,2024-11-27,Product damaged,2
+938,11762,2024-11-13,Product damaged,1
+939,11776,2024-11-30,Product not as expected,1
+940,11803,2024-11-12,Product damaged,1
+941,11808,2024-11-18,Size issue,1
+942,11823,2024-11-09,Product damaged,1
+943,11826,2024-11-12,Product damaged,1
+944,11828,2024-11-13,Wrong product,1
+945,11832,2024-11-22,Size issue,1
+946,11839,2024-11-24,Defective product,2
+947,11848,2024-12-06,Product not as expected,1
+948,11853,2024-12-05,Product damaged,2
+949,11857,2024-12-02,Wrong product,1
+950,11858,2024-11-15,Wrong product,1
+951,11877,2024-11-29,Product damaged,1
+952,11878,2024-12-02,Product not as expected,1
+953,11890,2024-12-05,Size issue,1
+954,11897,2024-12-06,Size issue,2
+955,11920,2024-11-16,Size issue,1
+956,11939,2024-11-11,Product not as expected,1
+957,11948,2024-11-17,Product not as expected,1
+958,11954,2024-11-12,Size issue,1
+959,11958,2024-11-26,Product not as expected,1
+960,11959,2024-12-06,Wrong product,2
+961,11961,2024-11-14,Product not as expected,2
+962,11962,2024-11-15,Product damaged,2
+963,11996,2024-11-18,Wrong product,1
+964,12006,2024-12-06,Product damaged,1
+965,12008,2024-11-15,Product damaged,1
+966,12010,2024-12-03,Product not as expected,1
+967,12026,2024-12-08,Wrong product,1
+968,12041,2024-12-04,Size issue,1
+969,12052,2024-11-15,Product damaged,2
+970,12082,2024-11-24,Product damaged,2
+971,12086,2024-12-03,Size issue,1
+972,12087,2024-11-28,Product not as expected,1
+973,12090,2024-11-14,Size issue,1
+974,12091,2024-11-25,Defective product,1
+975,12094,2024-11-30,Product damaged,2
+976,12108,2024-11-25,Product not as expected,1
+977,12137,2024-11-30,Wrong product,1
+978,12138,2024-11-22,Wrong product,2
+979,12140,2024-12-04,Changed mind,1
+980,12190,2024-12-12,Wrong product,1
+981,12191,2024-12-13,Product not as expected,1
+982,12200,2024-12-03,Product damaged,1
+983,12217,2024-12-10,Changed mind,2
+984,12222,2024-11-28,Product not as expected,1
+985,12246,2024-11-21,Wrong product,2
+986,12247,2024-11-21,Size issue,1
+987,12250,2024-11-22,Product damaged,1
+988,12268,2024-12-14,Changed mind,1
+989,12277,2024-12-16,Changed mind,1
+990,12297,2024-12-04,Product damaged,1
+991,12299,2024-12-07,Product damaged,1
+992,12300,2024-11-20,Size issue,2
+993,12333,2024-12-13,Changed mind,2
+994,12346,2024-12-05,Product not as expected,1
+995,12387,2024-11-25,Size issue,1
+996,12390,2024-12-09,Wrong product,1
+997,12398,2024-12-11,Changed mind,1
+998,12410,2024-12-18,Product damaged,2
+999,12418,2024-12-16,Product damaged,3
+1000,12419,2024-12-08,Wrong product,1
+1001,12422,2024-12-11,Size issue,1
+1002,12427,2024-11-30,Size issue,1
+1003,12466,2024-12-12,Wrong product,1
+1004,12468,2024-11-30,Product not as expected,2
+1005,12482,2024-12-19,Changed mind,1
+1006,12489,2024-12-16,Defective product,1
+1007,12491,2024-12-13,Product not as expected,1
+1008,12494,2024-12-15,Changed mind,1
+1009,12518,2024-11-27,Changed mind,1
+1010,12529,2024-12-20,Wrong product,2
+1011,12537,2024-12-03,Product damaged,2
+1012,12538,2024-12-13,Changed mind,1
+1013,12546,2024-11-27,Product damaged,1
+1014,12548,2024-12-11,Defective product,4
+1015,12558,2024-12-02,Product not as expected,1
+1016,12564,2024-12-24,Product not as expected,1
+1017,12565,2024-12-13,Changed mind,1
+1018,12576,2024-12-22,Changed mind,1
+1019,12607,2024-12-14,Defective product,1
+1020,12618,2024-12-22,Wrong product,1
+1021,12633,2024-12-23,Size issue,1
+1022,12635,2024-11-28,Wrong product,1
+1023,12664,2024-12-26,Size issue,3
+1024,12671,2024-12-14,Changed mind,1
+1025,12673,2024-12-14,Wrong product,1
+1026,12696,2024-12-01,Changed mind,1
+1027,12707,2024-12-13,Wrong product,1
+1028,12711,2024-12-10,Wrong product,1
+1029,12731,2024-12-05,Changed mind,1
+1030,12751,2024-12-12,Wrong product,2
+1031,12770,2024-12-30,Size issue,1
+1032,12784,2024-12-08,Product damaged,1
+1033,12793,2024-12-16,Product not as expected,1
+1034,12818,2024-12-26,Changed mind,1
+1035,12837,2024-12-06,Wrong product,1
+1036,12867,2024-12-16,Wrong product,1
+1037,12875,2024-12-23,Defective product,2
+1038,12884,2024-12-23,Product not as expected,1
+1039,12916,2024-12-16,Product damaged,1
+1040,12920,2024-12-09,Size issue,2
+1041,12928,2024-12-15,Product damaged,1
+1042,12931,2025-01-01,Changed mind,2
+1043,12947,2024-12-09,Product not as expected,1
+1044,12954,2024-12-28,Product not as expected,1
+1045,12966,2024-12-14,Size issue,1
+1046,12982,2024-12-09,Wrong product,1
+1047,12991,2025-01-03,Product not as expected,1
+1048,12993,2024-12-12,Defective product,1
+1049,13005,2024-12-08,Changed mind,1
+1050,13011,2024-12-29,Product not as expected,1
+1051,13032,2024-12-29,Changed mind,1
+1052,13055,2025-01-05,Product not as expected,1
+1053,13067,2024-12-14,Product damaged,1
+1054,13076,2024-12-14,Defective product,1
+1055,13087,2024-12-27,Defective product,2
+1056,13089,2025-01-07,Product damaged,1
+1057,13101,2024-12-19,Size issue,1
+1058,13105,2024-12-20,Defective product,1
+1059,13119,2024-12-30,Size issue,1
+1060,13135,2025-01-06,Size issue,1
+1061,13156,2024-12-20,Size issue,1
+1062,13168,2025-01-09,Wrong product,1
+1063,13170,2024-12-16,Wrong product,1
+1064,13173,2025-01-07,Defective product,1
+1065,13181,2024-12-14,Changed mind,2
+1066,13212,2025-01-05,Size issue,1
+1067,13276,2025-01-04,Product not as expected,2
+1068,13279,2024-12-23,Product not as expected,1
+1069,13304,2025-01-05,Defective product,1
+1070,13310,2025-01-14,Changed mind,1
+1071,13311,2024-12-17,Product damaged,1
+1072,13322,2024-12-24,Product damaged,1
+1073,13327,2025-01-05,Wrong product,1
+1074,13345,2025-01-04,Product not as expected,2
+1075,13367,2024-12-23,Defective product,1
+1076,13380,2024-12-20,Product damaged,2
+1077,13381,2025-01-12,Defective product,2
+1078,13386,2024-12-22,Product damaged,3
+1079,13400,2024-12-29,Product damaged,1
+1080,13440,2025-01-01,Size issue,1
+1081,13442,2025-01-09,Product not as expected,1
+1082,13451,2024-12-29,Product damaged,3
+1083,13456,2025-01-16,Product damaged,1
+1084,13496,2025-01-11,Size issue,1
+1085,13509,2025-01-13,Changed mind,1
+1086,13529,2024-12-30,Product not as expected,1
+1087,13540,2025-01-06,Size issue,2
+1088,13565,2024-12-28,Size issue,1
+1089,13580,2024-12-25,Defective product,1
+1090,13599,2025-01-01,Product damaged,1
+1091,13617,2024-12-26,Product not as expected,1
+1092,13618,2025-01-03,Product damaged,1
+1093,13620,2025-01-02,Size issue,1
+1094,13623,2024-12-27,Product not as expected,3
+1095,13628,2025-01-18,Wrong product,2
+1096,13651,2024-12-30,Size issue,1
+1097,13679,2024-12-27,Defective product,1
+1098,13686,2025-01-15,Defective product,1
+1099,13697,2024-12-27,Product damaged,1
+1100,13701,2025-01-19,Changed mind,1
+1101,13720,2025-01-10,Defective product,1
+1102,13729,2025-01-18,Wrong product,1
+1103,13737,2025-01-04,Product damaged,1
+1104,13756,2025-01-18,Size issue,3
+1105,13762,2025-01-24,Product not as expected,2
+1106,13782,2025-01-20,Size issue,1
+1107,13791,2025-01-23,Defective product,1
+1108,13801,2025-01-21,Product damaged,1
+1109,13819,2025-01-06,Changed mind,1
+1110,13836,2025-01-21,Defective product,1
+1111,13840,2025-01-04,Changed mind,1
+1112,13851,2025-01-24,Wrong product,3
+1113,13855,2025-01-03,Wrong product,2
+1114,13872,2025-01-01,Product not as expected,1
+1115,13879,2025-01-28,Product not as expected,3
+1116,13886,2025-01-11,Product damaged,1
+1117,13899,2025-01-19,Product damaged,1
+1118,13904,2025-01-09,Defective product,1
+1119,13907,2025-01-11,Changed mind,1
+1120,13918,2025-01-14,Size issue,2
+1121,13937,2025-01-03,Changed mind,1
+1122,13940,2025-01-13,Changed mind,2
+1123,13944,2025-01-29,Product damaged,1
+1124,13984,2025-01-14,Product damaged,1
+1125,13985,2025-01-05,Changed mind,1
+1126,13987,2025-01-11,Size issue,1
+1127,14003,2025-01-26,Wrong product,1
+1128,14025,2025-01-26,Product not as expected,1
+1129,14034,2025-01-13,Product damaged,1
+1130,14041,2025-01-23,Product not as expected,1
+1131,14046,2025-01-08,Size issue,1
+1132,14052,2025-01-06,Product not as expected,2
+1133,14062,2025-01-14,Changed mind,1
+1134,14086,2025-01-24,Defective product,1
+1135,14129,2025-01-28,Product not as expected,1
+1136,14130,2025-01-31,Changed mind,1
+1137,14132,2025-01-09,Changed mind,2
+1138,14136,2025-01-28,Product damaged,1
+1139,14144,2025-01-24,Defective product,1
+1140,14150,2025-01-15,Size issue,1
+1141,14186,2025-01-18,Defective product,1
+1142,14199,2025-01-20,Changed mind,1
+1143,14213,2025-01-23,Defective product,1
+1144,14225,2025-01-23,Size issue,1
+1145,14262,2025-02-01,Defective product,1
+1146,14266,2025-01-24,Wrong product,1
+1147,14279,2025-02-05,Product damaged,1
+1148,14284,2025-02-03,Changed mind,2
+1149,14306,2025-02-06,Defective product,1
+1150,14347,2025-02-04,Product not as expected,1
+1151,14353,2025-02-02,Size issue,1
+1152,14355,2025-02-10,Size issue,1
+1153,14366,2025-01-21,Product damaged,1
+1154,14369,2025-01-24,Product damaged,1
+1155,14375,2025-01-18,Product damaged,3
+1156,14380,2025-02-04,Wrong product,1
+1157,14423,2025-01-15,Product damaged,1
+1158,14427,2025-01-19,Size issue,1
+1159,14430,2025-01-21,Product not as expected,1
+1160,14433,2025-01-20,Wrong product,3
+1161,14438,2025-02-12,Wrong product,1
+1162,14443,2025-02-03,Size issue,1
+1163,14445,2025-02-10,Wrong product,1
+1164,14465,2025-01-26,Size issue,1
+1165,14471,2025-02-05,Defective product,1
+1166,14498,2025-02-05,Wrong product,3
+1167,14503,2025-02-10,Size issue,2
+1168,14504,2025-01-26,Changed mind,1
+1169,14531,2025-01-20,Changed mind,1
+1170,14534,2025-02-10,Defective product,1
+1171,14547,2025-02-08,Defective product,1
+1172,14549,2025-01-23,Product not as expected,1
+1173,14562,2025-01-26,Product not as expected,1
+1174,14575,2025-01-31,Defective product,1
+1175,14582,2025-02-04,Wrong product,1
+1176,14589,2025-02-17,Wrong product,1
+1177,14612,2025-01-27,Product not as expected,1
+1178,14613,2025-02-02,Product damaged,1
+1179,14614,2025-01-22,Product damaged,1
+1180,14622,2025-02-06,Wrong product,1
+1181,14634,2025-01-30,Defective product,1
+1182,14635,2025-01-28,Defective product,1
+1183,14642,2025-01-24,Wrong product,1
+1184,14678,2025-01-30,Size issue,1
+1185,14688,2025-02-13,Product not as expected,1
+1186,14691,2025-02-04,Size issue,1
+1187,14700,2025-02-19,Product not as expected,1
+1188,14730,2025-02-10,Size issue,1
+1189,14736,2025-02-10,Changed mind,1
+1190,14764,2025-01-29,Changed mind,1
+1191,14786,2025-02-09,Size issue,2
+1192,14808,2025-02-14,Wrong product,1
+1193,14830,2025-02-11,Size issue,1
+1194,14844,2025-02-08,Product not as expected,1
+1195,14850,2025-02-03,Changed mind,1
+1196,14851,2025-02-20,Defective product,1
+1197,14852,2025-01-31,Product not as expected,2
+1198,14873,2025-02-18,Wrong product,1
+1199,14895,2025-02-06,Product not as expected,1
+1200,14900,2025-02-25,Wrong product,2
+1201,14903,2025-02-11,Defective product,1
+1202,14906,2025-02-16,Defective product,1
+1203,14907,2025-02-09,Wrong product,1
+1204,14918,2025-02-12,Product not as expected,2
+1205,14927,2025-02-01,Product not as expected,1
+1206,14935,2025-02-14,Size issue,3
+1207,14954,2025-02-03,Product damaged,4
+1208,14971,2025-02-20,Changed mind,1
+1209,14986,2025-01-31,Product not as expected,1
+1210,14989,2025-02-07,Wrong product,2
+1211,14994,2025-02-27,Defective product,1
+1212,14999,2025-01-30,Size issue,1
+1213,15026,2025-02-22,Product damaged,1
+1214,15038,2025-02-04,Changed mind,3
+1215,15076,2025-02-11,Size issue,1
+1216,15106,2025-02-12,Product damaged,1
+1217,15164,2025-02-20,Product damaged,1
+1218,15167,2025-02-12,Defective product,1
+1219,15171,2025-02-14,Size issue,1
+1220,15188,2025-02-06,Product damaged,1
+1221,15220,2025-02-08,Defective product,1
+1222,15222,2025-03-01,Product damaged,1
+1223,15238,2025-02-11,Size issue,1
+1224,15249,2025-02-13,Product not as expected,1
+1225,15256,2025-02-16,Product damaged,2
+1226,15262,2025-03-04,Product damaged,1
+1227,15267,2025-02-23,Product damaged,1
+1228,15270,2025-02-22,Product damaged,1
+1229,15274,2025-02-05,Product damaged,1
+1230,15288,2025-03-04,Changed mind,1
+1231,15292,2025-02-13,Product damaged,1
+1232,15333,2025-02-24,Product not as expected,1
+1233,15395,2025-03-05,Changed mind,1
+1234,15400,2025-02-21,Wrong product,2
+1235,15408,2025-02-19,Product damaged,1
+1236,15411,2025-02-09,Product damaged,1
+1237,15413,2025-02-19,Changed mind,1
+1238,15414,2025-02-18,Product damaged,1
+1239,15450,2025-02-13,Product not as expected,1
+1240,15453,2025-02-15,Product not as expected,1
+1241,15454,2025-03-09,Size issue,2
+1242,15493,2025-02-16,Size issue,1
+1243,15499,2025-02-17,Defective product,1
+1244,15521,2025-03-09,Size issue,1
+1245,15543,2025-03-09,Product not as expected,1
+1246,15552,2025-02-19,Changed mind,1
+1247,15556,2025-02-13,Product not as expected,1
+1248,15558,2025-02-21,Size issue,1
+1249,15560,2025-02-26,Changed mind,2
+1250,15582,2025-02-18,Product not as expected,1
+1251,15583,2025-02-23,Product damaged,1
+1252,15589,2025-02-14,Product not as expected,1
+1253,15619,2025-03-09,Product not as expected,1
+1254,15637,2025-03-03,Changed mind,1
+1255,15646,2025-02-27,Size issue,3
+1256,15688,2025-03-14,Product not as expected,1
+1257,15693,2025-02-17,Product not as expected,1
+1258,15700,2025-02-23,Defective product,1
+1259,15710,2025-03-11,Size issue,1
+1260,15749,2025-03-15,Product not as expected,1
+1261,15777,2025-03-14,Changed mind,1
+1262,15783,2025-03-09,Size issue,1
+1263,15784,2025-03-10,Changed mind,1
+1264,15797,2025-03-09,Size issue,1
+1265,15808,2025-03-09,Product not as expected,1
+1266,15812,2025-03-01,Wrong product,3
+1267,15818,2025-02-28,Product not as expected,3
+1268,15825,2025-03-10,Size issue,1
+1269,15826,2025-03-02,Product not as expected,1
+1270,15836,2025-03-06,Product not as expected,1
+1271,15842,2025-03-12,Wrong product,1
+1272,15848,2025-02-20,Product damaged,4
+1273,15868,2025-03-15,Wrong product,2
+1274,15900,2025-02-28,Product not as expected,1
+1275,15915,2025-03-04,Product not as expected,1
+1276,15926,2025-03-03,Wrong product,1
+1277,15931,2025-03-16,Size issue,1
+1278,15944,2025-03-08,Product not as expected,1
+1279,15961,2025-03-10,Changed mind,1
+1280,15983,2025-03-03,Size issue,1
+1281,15993,2025-03-06,Changed mind,1
+1282,16021,2025-02-26,Changed mind,2
+1283,16033,2025-03-10,Product damaged,1
+1284,16090,2025-03-05,Product not as expected,1
+1285,16091,2025-03-12,Wrong product,2
+1286,16114,2025-03-24,Product damaged,1
+1287,16131,2025-03-01,Wrong product,1
+1288,16138,2025-03-20,Size issue,1
+1289,16139,2025-03-26,Wrong product,1
+1290,16148,2025-03-16,Wrong product,1
+1291,16161,2025-03-15,Wrong product,1
+1292,16169,2025-03-23,Size issue,2
+1293,16170,2025-03-14,Changed mind,1
+1294,16177,2025-03-13,Wrong product,1
+1295,16182,2025-03-26,Product not as expected,4
+1296,16189,2025-03-08,Product not as expected,1
+1297,16191,2025-03-19,Changed mind,1
+1298,16202,2025-03-19,Wrong product,3
+1299,16211,2025-03-19,Wrong product,1
+1300,16229,2025-03-03,Wrong product,1
+1301,16334,2025-03-27,Product not as expected,1
+1302,16338,2025-03-23,Product not as expected,1
+1303,16355,2025-03-29,Product not as expected,1
+1304,16380,2025-03-20,Changed mind,1
+1305,16381,2025-03-26,Changed mind,1
+1306,16386,2025-03-13,Product damaged,1
+1307,16389,2025-03-23,Defective product,1
+1308,16399,2025-03-22,Product not as expected,1
+1309,16421,2025-03-13,Wrong product,1
+1310,16442,2025-04-03,Product damaged,1
+1311,16444,2025-03-27,Product not as expected,2
+1312,16451,2025-03-31,Changed mind,2
+1313,16464,2025-03-21,Changed mind,1
+1314,16469,2025-03-21,Product damaged,1
+1315,16471,2025-03-22,Product not as expected,2
+1316,16483,2025-03-27,Wrong product,2
+1317,16486,2025-03-28,Defective product,1
+1318,16507,2025-04-02,Size issue,1
+1319,16509,2025-03-29,Defective product,1
+1320,16521,2025-03-27,Product damaged,2
+1321,16523,2025-03-20,Changed mind,1
+1322,16527,2025-03-11,Size issue,1
+1323,16539,2025-03-19,Size issue,1
+1324,16540,2025-04-07,Defective product,1
+1325,16572,2025-03-19,Product damaged,1
+1326,16584,2025-03-18,Product not as expected,1
+1327,16586,2025-03-21,Defective product,1
+1328,16629,2025-04-03,Changed mind,1
+1329,16630,2025-04-09,Changed mind,4
+1330,16633,2025-03-16,Product damaged,2
+1331,16636,2025-03-17,Product damaged,1
+1332,16647,2025-03-27,Product not as expected,1
+1333,16653,2025-03-18,Size issue,1
+1334,16678,2025-04-08,Size issue,1
+1335,16685,2025-03-25,Defective product,2
+1336,16698,2025-04-11,Size issue,1
+1337,16714,2025-03-24,Product not as expected,1
+1338,16746,2025-03-19,Changed mind,1
+1339,16754,2025-04-01,Defective product,1
+1340,16759,2025-03-15,Product damaged,1
+1341,16768,2025-03-18,Changed mind,1
+1342,16784,2025-03-24,Product not as expected,1
+1343,16843,2025-04-02,Changed mind,1
+1344,16864,2025-04-10,Wrong product,2
+1345,16867,2025-04-03,Defective product,1
+1346,16911,2025-03-28,Changed mind,1
+1347,16960,2025-03-20,Defective product,1
+1348,16961,2025-03-27,Wrong product,1
+1349,16983,2025-04-02,Size issue,2
+1350,17001,2025-04-12,Size issue,1
+1351,17060,2025-04-14,Changed mind,1
+1352,17134,2025-04-12,Product not as expected,2
+1353,17139,2025-03-29,Size issue,1
+1354,17159,2025-04-21,Product damaged,1
+1355,17167,2025-04-09,Defective product,1
+1356,17169,2025-04-14,Defective product,1
+1357,17177,2025-04-19,Size issue,1
+1358,17185,2025-03-30,Product damaged,1
+1359,17227,2025-04-13,Size issue,1
+1360,17228,2025-04-13,Product damaged,1
+1361,17238,2025-04-17,Size issue,1
+1362,17239,2025-04-20,Product not as expected,2
+1363,17257,2025-04-16,Wrong product,1
+1364,17259,2025-04-20,Product damaged,1
+1365,17273,2025-04-20,Size issue,1
+1366,17275,2025-04-20,Wrong product,1
+1367,17276,2025-04-14,Defective product,1
+1368,17277,2025-04-15,Wrong product,1
+1369,17280,2025-04-04,Product damaged,2
+1370,17291,2025-03-31,Changed mind,1
+1371,17296,2025-04-24,Product not as expected,1
+1372,17308,2025-04-11,Changed mind,1
+1373,17313,2025-04-07,Size issue,1
+1374,17316,2025-04-14,Size issue,1
+1375,17324,2025-04-06,Size issue,1
+1376,17335,2025-04-10,Changed mind,1
+1377,17336,2025-04-15,Product damaged,1
+1378,17340,2025-04-20,Wrong product,1
+1379,17349,2025-03-30,Wrong product,1
+1380,17353,2025-04-26,Changed mind,1
+1381,17367,2025-04-23,Wrong product,1
+1382,17376,2025-04-16,Defective product,1
+1383,17387,2025-03-31,Defective product,1
+1384,17390,2025-03-31,Defective product,3
+1385,17404,2025-04-13,Defective product,1
+1386,17417,2025-04-24,Size issue,2
+1387,17419,2025-04-18,Size issue,1
+1388,17424,2025-04-03,Defective product,2
+1389,17436,2025-04-09,Product damaged,1
+1390,17441,2025-04-14,Product damaged,1
+1391,17454,2025-04-21,Defective product,1
+1392,17465,2025-04-12,Wrong product,3
+1393,17468,2025-04-03,Wrong product,1
+1394,17480,2025-04-16,Product not as expected,1
+1395,17481,2025-04-26,Product not as expected,1
+1396,17516,2025-04-06,Wrong product,1
+1397,17524,2025-04-07,Changed mind,1
+1398,17531,2025-05-02,Product damaged,1
+1399,17534,2025-04-06,Defective product,1
+1400,17535,2025-04-06,Defective product,1
+1401,17539,2025-04-16,Product not as expected,1
+1402,17540,2025-04-14,Size issue,2
+1403,17559,2025-04-17,Defective product,1
+1404,17566,2025-04-08,Product not as expected,1
+1405,17568,2025-04-09,Changed mind,2
+1406,17577,2025-04-10,Defective product,1
+1407,17582,2025-04-27,Product damaged,1
+1408,17606,2025-04-24,Size issue,2
+1409,17634,2025-04-15,Wrong product,1
+1410,17654,2025-04-15,Size issue,1
+1411,17672,2025-04-11,Product not as expected,1
+1412,17681,2025-04-08,Defective product,1
+1413,17686,2025-04-23,Product not as expected,1
+1414,17711,2025-04-26,Defective product,1
+1415,17713,2025-05-05,Wrong product,2
+1416,17721,2025-05-06,Product not as expected,1
+1417,17759,2025-04-29,Wrong product,1
+1418,17797,2025-04-24,Wrong product,1
+1419,17816,2025-05-04,Product damaged,2
+1420,17823,2025-04-13,Product damaged,1
+1421,17833,2025-04-25,Product not as expected,1
+1422,17836,2025-04-22,Product not as expected,2
+1423,17862,2025-04-27,Wrong product,1
+1424,17883,2025-05-02,Size issue,2
+1425,17906,2025-05-06,Defective product,2
+1426,17914,2025-05-05,Size issue,1
+1427,17915,2025-05-06,Product damaged,1
+1428,17939,2025-04-17,Defective product,1
+1429,17941,2025-05-04,Changed mind,1
+1430,17943,2025-05-13,Defective product,1
+1431,17948,2025-04-26,Defective product,1
+1432,17972,2025-05-03,Product not as expected,1
+1433,17982,2025-04-20,Wrong product,2
+1434,18013,2025-05-01,Product damaged,1
+1435,18024,2025-05-03,Defective product,1
+1436,18035,2025-05-10,Defective product,1
+1437,18038,2025-04-26,Changed mind,1
+1438,18088,2025-04-26,Changed mind,1
+1439,18098,2025-05-10,Wrong product,1
+1440,18122,2025-04-24,Product damaged,2
+1441,18128,2025-04-27,Defective product,1
+1442,18137,2025-05-02,Size issue,1
+1443,18158,2025-05-15,Size issue,1
+1444,18182,2025-04-23,Changed mind,1
+1445,18203,2025-05-03,Defective product,1
+1446,18207,2025-05-15,Product not as expected,3
+1447,18213,2025-05-17,Changed mind,1
+1448,18228,2025-05-19,Changed mind,2
+1449,18234,2025-05-20,Size issue,3
+1450,18241,2025-05-16,Product not as expected,2
+1451,18255,2025-04-29,Defective product,1
+1452,18271,2025-05-20,Wrong product,1
+1453,18277,2025-04-27,Changed mind,2
+1454,18320,2025-05-13,Product not as expected,1
+1455,18322,2025-05-16,Product not as expected,1
+1456,18330,2025-04-27,Defective product,1
+1457,18351,2025-05-05,Changed mind,1
+1458,18368,2025-04-28,Defective product,2
+1459,18378,2025-05-14,Product damaged,3
+1460,18391,2025-04-28,Product not as expected,1
+1461,18441,2025-05-25,Wrong product,1
+1462,18449,2025-05-22,Product not as expected,3
+1463,18450,2025-05-09,Product not as expected,1
+1464,18452,2025-05-23,Product not as expected,1
+1465,18466,2025-05-12,Product damaged,1
+1466,18498,2025-05-15,Wrong product,1
+1467,18506,2025-04-30,Changed mind,1
+1468,18531,2025-05-27,Product damaged,1
+1469,18536,2025-05-25,Changed mind,1
+1470,18557,2025-05-23,Wrong product,1
+1471,18563,2025-05-23,Product damaged,2
+1472,18566,2025-05-19,Wrong product,1
+1473,18584,2025-05-04,Product damaged,4
+1474,18603,2025-05-29,Wrong product,1
+1475,18632,2025-05-21,Changed mind,1
+1476,18637,2025-05-30,Defective product,1
+1477,18648,2025-05-02,Size issue,1
+1478,18660,2025-05-14,Size issue,1
+1479,18671,2025-05-17,Product not as expected,1
+1480,18675,2025-05-09,Product damaged,2
+1481,18676,2025-05-08,Defective product,1
+1482,18689,2025-05-31,Changed mind,1
+1483,18707,2025-05-07,Size issue,1
+1484,18720,2025-05-06,Defective product,1
+1485,18727,2025-05-18,Defective product,1
+1486,18729,2025-05-29,Wrong product,1
+1487,18741,2025-05-18,Size issue,1
+1488,18747,2025-05-28,Size issue,2
+1489,18775,2025-05-06,Changed mind,2
+1490,18807,2025-05-22,Changed mind,1
+1491,18830,2025-06-02,Defective product,1
+1492,18831,2025-05-16,Size issue,1
+1493,18836,2025-05-28,Product damaged,2
+1494,18872,2025-06-04,Product not as expected,1
+1495,18874,2025-05-21,Size issue,1
+1496,18875,2025-05-27,Product damaged,2
+1497,18882,2025-05-27,Product not as expected,1
+1498,18885,2025-05-26,Changed mind,1
+1499,18892,2025-06-03,Size issue,1
+1500,18917,2025-06-02,Product not as expected,1
+1501,18922,2025-05-18,Product damaged,1
+1502,18928,2025-05-30,Wrong product,1
+1503,18944,2025-06-04,Size issue,1
+1504,18964,2025-05-11,Size issue,1
+1505,18969,2025-05-20,Changed mind,1
+1506,18990,2025-06-06,Wrong product,1
+1507,19001,2025-05-27,Changed mind,1
+1508,19009,2025-05-26,Size issue,2
+1509,19010,2025-05-17,Size issue,1
+1510,19018,2025-05-12,Defective product,2
+1511,19029,2025-05-24,Wrong product,1
+1512,19052,2025-05-22,Wrong product,2
+1513,19059,2025-05-24,Size issue,1
+1514,19068,2025-05-25,Defective product,1
+1515,19072,2025-05-26,Defective product,1
+1516,19077,2025-05-20,Product not as expected,1
+1517,19078,2025-06-08,Product not as expected,1
+1518,19100,2025-06-07,Changed mind,1
+1519,19130,2025-06-06,Defective product,1
+1520,19135,2025-05-16,Defective product,1
+1521,19137,2025-06-06,Defective product,1
+1522,19148,2025-05-19,Product damaged,1
+1523,19165,2025-05-29,Defective product,1
+1524,19167,2025-05-28,Wrong product,2
+1525,19172,2025-06-02,Product not as expected,2
+1526,19238,2025-06-02,Changed mind,1
+1527,19239,2025-06-16,Defective product,2
+1528,19255,2025-05-19,Defective product,1
+1529,19266,2025-05-25,Changed mind,1
+1530,19271,2025-05-20,Product damaged,1
+1531,19283,2025-06-05,Defective product,1
+1532,19285,2025-05-27,Defective product,2
+1533,19312,2025-06-11,Defective product,2
+1534,19316,2025-06-03,Product not as expected,1
+1535,19317,2025-06-18,Changed mind,1
+1536,19321,2025-06-06,Product damaged,1
+1537,19322,2025-06-15,Changed mind,1
+1538,19327,2025-06-10,Product not as expected,1
+1539,19344,2025-05-22,Size issue,3
+1540,19355,2025-06-11,Defective product,1
+1541,19362,2025-06-04,Size issue,1
+1542,19391,2025-06-11,Size issue,2
+1543,19395,2025-05-23,Changed mind,2
+1544,19398,2025-06-18,Wrong product,1
+1545,19400,2025-06-19,Size issue,1
+1546,19401,2025-06-05,Product not as expected,1
+1547,19404,2025-06-11,Changed mind,1
+1548,19405,2025-05-31,Size issue,1
+1549,19411,2025-06-15,Defective product,1
+1550,19423,2025-06-02,Size issue,1
+1551,19454,2025-06-09,Defective product,1
+1552,19487,2025-05-29,Size issue,1
+1553,19516,2025-06-08,Size issue,1
+1554,19521,2025-05-28,Defective product,1
+1555,19539,2025-06-02,Product not as expected,1
+1556,19543,2025-06-23,Product not as expected,1
+1557,19549,2025-06-04,Wrong product,2
+1558,19560,2025-06-19,Defective product,1
+1559,19572,2025-06-17,Product not as expected,1
+1560,19586,2025-06-18,Changed mind,1
+1561,19600,2025-05-30,Changed mind,1
+1562,19615,2025-06-12,Size issue,1
+1563,19625,2025-06-04,Size issue,1
+1564,19648,2025-06-10,Product not as expected,1
+1565,19650,2025-06-05,Size issue,1
+1566,19664,2025-06-24,Product damaged,1
+1567,19670,2025-06-07,Defective product,1
+1568,19684,2025-06-16,Product damaged,1
+1569,19695,2025-06-21,Size issue,1
+1570,19697,2025-06-27,Defective product,1
+1571,19705,2025-06-22,Defective product,1
+1572,19710,2025-06-24,Wrong product,1
+1573,19716,2025-06-19,Wrong product,1
+1574,19717,2025-06-12,Product damaged,1
+1575,19733,2025-06-16,Changed mind,1
+1576,19735,2025-06-08,Changed mind,1
+1577,19737,2025-06-23,Changed mind,1
+1578,19743,2025-06-12,Defective product,2
+1579,19758,2025-06-16,Defective product,1
+1580,19812,2025-06-22,Product not as expected,2
+1581,19853,2025-06-04,Product not as expected,1
+1582,19877,2025-06-28,Product not as expected,1
+1583,19881,2025-07-02,Product not as expected,1
+1584,19897,2025-06-27,Changed mind,1
+1585,19898,2025-06-16,Product not as expected,1
+1586,19900,2025-06-13,Product damaged,1
+1587,19901,2025-06-15,Defective product,1
+1588,19904,2025-06-23,Changed mind,2
+1589,19909,2025-06-21,Wrong product,1
+1590,19922,2025-06-07,Wrong product,1
+1591,19942,2025-06-15,Size issue,1
+1592,19947,2025-06-12,Size issue,1
+1593,19968,2025-06-10,Changed mind,1
+1594,19971,2025-06-22,Defective product,2
+1595,19974,2025-06-19,Product not as expected,1
+1596,19976,2025-07-01,Changed mind,1
+1597,19978,2025-06-17,Wrong product,1
+1598,19979,2025-06-26,Wrong product,1
+1599,19990,2025-06-23,Product not as expected,1
+1600,20017,2025-06-15,Product damaged,2
+1601,20018,2025-06-24,Defective product,1
+1602,20043,2025-06-14,Defective product,1
+1603,20049,2025-06-11,Size issue,2
+1604,20076,2025-06-20,Product not as expected,1
+1605,20104,2025-06-22,Size issue,1
+1606,20105,2025-06-29,Product damaged,1
+1607,20112,2025-06-20,Size issue,1
+1608,20119,2025-06-24,Defective product,1
+1609,20126,2025-07-04,Product damaged,1
+1610,20127,2025-07-08,Wrong product,1
+1611,20133,2025-06-26,Product damaged,1
+1612,20137,2025-06-19,Changed mind,1
+1613,20140,2025-06-23,Product not as expected,1
+1614,20174,2025-07-08,Size issue,1
+1615,20183,2025-06-18,Size issue,2
+1616,20197,2025-06-27,Size issue,1
+1617,20199,2025-07-08,Wrong product,1
+1618,20216,2025-06-22,Product damaged,1
+1619,20218,2025-06-14,Product not as expected,2
+1620,20221,2025-07-05,Product not as expected,1
+1621,20244,2025-06-28,Changed mind,1
+1622,20245,2025-07-05,Changed mind,1
+1623,20254,2025-06-20,Product damaged,1
+1624,20258,2025-07-03,Size issue,1
+1625,20261,2025-07-11,Size issue,1
+1626,20262,2025-07-02,Product not as expected,2
+1627,20268,2025-06-27,Defective product,1
+1628,20297,2025-07-02,Defective product,1
+1629,20309,2025-06-28,Wrong product,1
+1630,20321,2025-07-03,Size issue,1
+1631,20349,2025-07-09,Product damaged,2
+1632,20360,2025-07-07,Product not as expected,1
+1633,20370,2025-07-11,Product damaged,3
+1634,20383,2025-06-22,Defective product,1
+1635,20412,2025-07-14,Defective product,1
+1636,20419,2025-06-28,Product damaged,1
+1637,20420,2025-06-19,Product not as expected,3
+1638,20422,2025-06-23,Product damaged,2
+1639,20436,2025-07-05,Product not as expected,1
+1640,20447,2025-07-05,Product not as expected,1
+1641,20448,2025-07-07,Wrong product,2
+1642,20456,2025-07-06,Changed mind,2
+1643,20506,2025-06-27,Changed mind,1
+1644,20512,2025-06-22,Size issue,1
+1645,20531,2025-06-28,Wrong product,1
+1646,20560,2025-06-27,Changed mind,2
+1647,20594,2025-07-01,Wrong product,1
+1648,20601,2025-07-21,Size issue,4
+1649,20605,2025-07-05,Wrong product,2
+1650,20608,2025-07-12,Wrong product,1
+1651,20632,2025-07-14,Size issue,1
+1652,20633,2025-07-15,Size issue,1
+1653,20640,2025-06-25,Changed mind,1
+1654,20641,2025-07-10,Size issue,1
+1655,20655,2025-07-18,Product not as expected,1
+1656,20669,2025-07-08,Size issue,1
+1657,20677,2025-07-09,Wrong product,1
+1658,20679,2025-07-15,Product not as expected,3
+1659,20694,2025-07-01,Wrong product,1
+1660,20699,2025-07-04,Defective product,1
+1661,20700,2025-07-20,Product not as expected,2
+1662,20722,2025-07-02,Product damaged,1
+1663,20742,2025-07-23,Defective product,2
+1664,20747,2025-06-30,Product damaged,1
+1665,20750,2025-07-14,Product not as expected,1
+1666,20753,2025-07-22,Size issue,1
+1667,20755,2025-06-30,Size issue,1
+1668,20761,2025-07-02,Changed mind,1
+1669,20770,2025-07-10,Product not as expected,1
+1670,20771,2025-07-23,Changed mind,1
+1671,20812,2025-07-10,Product damaged,2
+1672,20819,2025-07-01,Size issue,3
+1673,20828,2025-07-20,Product damaged,2
+1674,20850,2025-07-13,Wrong product,1
+1675,20860,2025-07-16,Defective product,2
+1676,20877,2025-07-07,Product not as expected,1
+1677,20886,2025-07-30,Product not as expected,1
+1678,20906,2025-07-02,Product not as expected,1
+1679,20947,2025-07-21,Changed mind,1
+1680,20957,2025-07-24,Wrong product,1
+1681,20973,2025-07-15,Product damaged,2
+1682,20988,2025-07-13,Wrong product,1
+1683,20989,2025-07-31,Product not as expected,1
+1684,20996,2025-07-23,Defective product,1
+1685,21006,2025-07-21,Product not as expected,1
+1686,21009,2025-07-14,Size issue,1
+1687,21016,2025-07-17,Product not as expected,1
+1688,21020,2025-07-10,Size issue,1
+1689,21026,2025-07-16,Product not as expected,4
+1690,21047,2025-07-28,Size issue,1
+1691,21062,2025-08-01,Product damaged,2
+1692,21083,2025-07-14,Product not as expected,1
+1693,21091,2025-07-17,Defective product,1
+1694,21094,2025-07-11,Changed mind,1
+1695,21119,2025-08-05,Size issue,1
+1696,21126,2025-07-26,Product not as expected,1
+1697,21145,2025-08-02,Size issue,1
+1698,21160,2025-07-23,Product not as expected,3
+1699,21166,2025-07-12,Product damaged,1
+1700,21179,2025-07-18,Defective product,1
+1701,21187,2025-07-29,Changed mind,1
+1702,21205,2025-07-30,Product not as expected,2
+1703,21237,2025-07-23,Changed mind,1
+1704,21239,2025-07-12,Size issue,1
+1705,21252,2025-07-14,Changed mind,1
+1706,21262,2025-08-08,Defective product,1
+1707,21267,2025-08-08,Product damaged,1
+1708,21270,2025-07-16,Size issue,1
+1709,21285,2025-08-03,Product damaged,1
+1710,21286,2025-07-16,Wrong product,2
+1711,21287,2025-07-24,Product damaged,2
+1712,21298,2025-07-26,Product damaged,2
+1713,21314,2025-08-03,Size issue,2
+1714,21372,2025-07-24,Product not as expected,1
+1715,21373,2025-07-20,Defective product,1
+1716,21374,2025-08-08,Product damaged,2
+1717,21376,2025-08-08,Changed mind,1
+1718,21387,2025-07-24,Defective product,2
+1719,21388,2025-07-18,Defective product,1
+1720,21395,2025-07-16,Size issue,1
+1721,21433,2025-08-10,Product not as expected,1
+1722,21454,2025-08-04,Product not as expected,1
+1723,21462,2025-07-22,Changed mind,1
+1724,21473,2025-07-31,Size issue,1
+1725,21495,2025-08-07,Defective product,1
+1726,21496,2025-08-15,Product not as expected,1
+1727,21497,2025-08-09,Defective product,1
+1728,21498,2025-07-31,Wrong product,2
+1729,21520,2025-08-08,Changed mind,1
+1730,21536,2025-08-17,Defective product,1
+1731,21543,2025-08-17,Wrong product,1
+1732,21555,2025-07-21,Wrong product,1
+1733,21584,2025-07-23,Wrong product,1
+1734,21585,2025-07-28,Product damaged,1
+1735,21606,2025-08-03,Product not as expected,1
+1736,21609,2025-08-04,Changed mind,2
+1737,21628,2025-08-06,Changed mind,1
+1738,21634,2025-07-29,Defective product,1
+1739,21637,2025-08-19,Size issue,1
+1740,21639,2025-08-17,Product not as expected,1
+1741,21640,2025-07-25,Wrong product,1
+1742,21649,2025-08-03,Size issue,2
+1743,21675,2025-07-29,Size issue,1
+1744,21686,2025-08-10,Product not as expected,1
+1745,21713,2025-08-11,Size issue,1
+1746,21714,2025-08-14,Wrong product,1
+1747,21745,2025-08-20,Size issue,2
+1748,21751,2025-07-29,Changed mind,1
+1749,21769,2025-08-15,Wrong product,1
+1750,21776,2025-07-31,Size issue,1
+1751,21794,2025-08-05,Changed mind,1
+1752,21804,2025-08-18,Wrong product,1
+1753,21809,2025-07-30,Changed mind,1
+1754,21814,2025-08-06,Defective product,1
+1755,21870,2025-08-04,Product not as expected,1
+1756,21880,2025-08-04,Wrong product,1
+1757,21895,2025-08-17,Wrong product,1
+1758,21911,2025-08-15,Defective product,1
+1759,21914,2025-08-09,Product not as expected,2
+1760,21918,2025-08-05,Product not as expected,1
+1761,21947,2025-08-01,Wrong product,1
+1762,21952,2025-08-27,Defective product,2
+1763,21953,2025-08-06,Wrong product,1
+1764,21961,2025-08-21,Product not as expected,2
+1765,21971,2025-08-19,Defective product,2
+1766,21976,2025-08-04,Product not as expected,1
+1767,21985,2025-08-21,Product not as expected,1
+1768,22000,2025-08-17,Product not as expected,1
+1769,22002,2025-08-12,Wrong product,1
+1770,22045,2025-08-22,Product damaged,1
+1771,22051,2025-08-20,Size issue,1
+1772,22056,2025-08-28,Size issue,2
+1773,22108,2025-08-09,Wrong product,1
+1774,22117,2025-08-04,Size issue,1
+1775,22138,2025-08-08,Size issue,1
+1776,22141,2025-08-31,Wrong product,1
+1777,22146,2025-08-16,Product damaged,1
+1778,22148,2025-08-29,Product not as expected,1
+1779,22161,2025-08-09,Changed mind,1
+1780,22182,2025-08-21,Product not as expected,1
+1781,22185,2025-09-01,Product damaged,1
+1782,22202,2025-08-14,Size issue,1
+1783,22209,2025-08-15,Product not as expected,1
+1784,22230,2025-08-22,Product not as expected,1
+1785,22235,2025-08-13,Changed mind,1
+1786,22237,2025-08-26,Size issue,1
+1787,22259,2025-08-08,Changed mind,1
+1788,22263,2025-08-31,Product not as expected,1
+1789,22265,2025-09-01,Size issue,2
+1790,22289,2025-08-29,Defective product,1
+1791,22305,2025-08-11,Changed mind,1
+1792,22345,2025-08-19,Defective product,1
+1793,22347,2025-08-25,Wrong product,1
+1794,22353,2025-09-04,Wrong product,3
+1795,22378,2025-08-27,Changed mind,1
+1796,22383,2025-08-16,Size issue,1
+1797,22391,2025-09-05,Changed mind,1
+1798,22394,2025-08-21,Changed mind,1
+1799,22395,2025-08-23,Product not as expected,1
+1800,22399,2025-08-15,Size issue,1
+1801,22400,2025-08-20,Changed mind,1
+1802,22422,2025-08-28,Changed mind,1
+1803,22455,2025-09-07,Product damaged,2
+1804,22460,2025-08-14,Product damaged,1
+1805,22464,2025-08-13,Product damaged,1
+1806,22477,2025-08-15,Size issue,1
+1807,22482,2025-08-24,Size issue,1
+1808,22485,2025-08-13,Product not as expected,2
+1809,22498,2025-09-01,Product not as expected,1
+1810,22502,2025-08-20,Product damaged,1
+1811,22513,2025-08-14,Size issue,1
+1812,22514,2025-08-18,Wrong product,1
+1813,22527,2025-08-16,Size issue,1
+1814,22529,2025-08-17,Defective product,1
+1815,22546,2025-08-28,Size issue,1
+1816,22562,2025-09-11,Product not as expected,1
+1817,22622,2025-09-07,Defective product,1
+1818,22624,2025-09-05,Size issue,2
+1819,22626,2025-08-31,Wrong product,2
+1820,22640,2025-09-11,Wrong product,1
+1821,22655,2025-08-23,Product damaged,1
+1822,22668,2025-09-04,Changed mind,1
+1823,22671,2025-09-09,Defective product,1
+1824,22712,2025-09-06,Size issue,3
+1825,22748,2025-09-02,Defective product,1
+1826,22752,2025-09-05,Product not as expected,1
+1827,22753,2025-09-17,Wrong product,1
+1828,22756,2025-09-18,Defective product,2
+1829,22767,2025-08-30,Defective product,2
+1830,22817,2025-09-05,Size issue,1
+1831,22840,2025-09-05,Changed mind,1
+1832,22854,2025-09-18,Changed mind,1
+1833,22875,2025-09-16,Defective product,1
+1834,22878,2025-08-27,Size issue,2
+1835,22883,2025-09-01,Size issue,1
+1836,22884,2025-09-20,Defective product,1
+1837,22902,2025-09-18,Product damaged,1
+1838,22907,2025-08-27,Defective product,1
+1839,22933,2025-09-22,Wrong product,2
+1840,22948,2025-09-07,Wrong product,1
+1841,22954,2025-09-14,Defective product,1
+1842,22969,2025-09-21,Size issue,1
+1843,22976,2025-09-24,Size issue,1
+1844,23016,2025-09-11,Size issue,2
+1845,23024,2025-09-10,Product damaged,1
+1846,23032,2025-09-23,Product not as expected,1
+1847,23067,2025-09-17,Changed mind,2
+1848,23085,2025-09-03,Product not as expected,2
+1849,23115,2025-09-26,Product damaged,2
+1850,23148,2025-09-03,Size issue,1
+1851,23150,2025-09-17,Size issue,1
+1852,23157,2025-09-28,Product not as expected,1
+1853,23175,2025-09-25,Defective product,1
+1854,23177,2025-09-29,Defective product,1
+1855,23197,2025-09-07,Product damaged,1
+1856,23198,2025-09-15,Size issue,1
+1857,23199,2025-09-03,Product not as expected,1
+1858,23211,2025-09-07,Defective product,1
+1859,23244,2025-09-17,Size issue,1
+1860,23246,2025-09-22,Wrong product,1
+1861,23247,2025-09-09,Wrong product,1
+1862,23252,2025-09-19,Product damaged,1
+1863,23254,2025-09-11,Size issue,1
+1864,23263,2025-09-07,Changed mind,1
+1865,23274,2025-09-28,Defective product,2
+1866,23277,2025-09-19,Changed mind,1
+1867,23305,2025-09-18,Product not as expected,1
+1868,23307,2025-10-03,Product damaged,1
+1869,23311,2025-09-22,Product damaged,1
+1870,23341,2025-09-13,Size issue,1
+1871,23368,2025-09-12,Size issue,2
+1872,23378,2025-09-23,Defective product,4
+1873,23388,2025-09-24,Size issue,1
+1874,23405,2025-09-13,Defective product,1
+1875,23406,2025-10-05,Size issue,1
+1876,23413,2025-09-24,Size issue,1
+1877,23415,2025-10-03,Size issue,1
+1878,23419,2025-09-13,Defective product,1
+1879,23421,2025-10-02,Wrong product,1
+1880,23428,2025-10-05,Product damaged,3
+1881,23445,2025-09-29,Changed mind,1
+1882,23469,2025-09-08,Changed mind,1
+1883,23472,2025-09-12,Size issue,1
+1884,23480,2025-09-14,Product damaged,1
+1885,23509,2025-09-15,Changed mind,1
+1886,23522,2025-09-29,Size issue,1
+1887,23531,2025-09-25,Product damaged,4
+1888,23533,2025-09-17,Product damaged,1
+1889,23536,2025-09-28,Wrong product,1
+1890,23537,2025-09-24,Wrong product,1
+1891,23544,2025-09-16,Wrong product,1
+1892,23563,2025-09-26,Changed mind,1
+1893,23597,2025-09-18,Changed mind,1
+1894,23603,2025-09-28,Defective product,1
+1895,23605,2025-10-04,Wrong product,1
+1896,23607,2025-10-07,Changed mind,1
+1897,23610,2025-10-09,Changed mind,1
+1898,23617,2025-10-08,Product damaged,1
+1899,23640,2025-09-29,Size issue,1
+1900,23641,2025-09-19,Size issue,1
+1901,23652,2025-09-19,Size issue,2
+1902,23654,2025-10-04,Changed mind,3
+1903,23657,2025-09-30,Product not as expected,1
+1904,23659,2025-09-13,Changed mind,1
+1905,23660,2025-09-27,Product damaged,1
+1906,23662,2025-09-27,Defective product,2
+1907,23693,2025-10-02,Size issue,1
+1908,23704,2025-09-17,Size issue,1
+1909,23705,2025-10-02,Changed mind,1
+1910,23711,2025-09-30,Size issue,1
+1911,23731,2025-10-08,Product not as expected,1
+1912,23733,2025-10-02,Product damaged,1
+1913,23741,2025-09-17,Defective product,1
+1914,23745,2025-09-18,Defective product,2
+1915,23753,2025-10-10,Product damaged,1
+1916,23754,2025-09-17,Defective product,2
+1917,23800,2025-09-20,Product not as expected,1
+1918,23851,2025-10-04,Wrong product,1
+1919,23857,2025-10-07,Product not as expected,1
+1920,23865,2025-09-19,Product not as expected,1
+1921,23881,2025-10-04,Wrong product,1
+1922,23895,2025-10-01,Defective product,1
+1923,23921,2025-09-20,Defective product,1
+1924,23930,2025-10-14,Product not as expected,1
+1925,23934,2025-10-13,Product not as expected,1
+1926,23972,2025-10-14,Changed mind,1
+1927,24003,2025-09-30,Defective product,1
+1928,24006,2025-10-11,Wrong product,1
+1929,24018,2025-10-06,Wrong product,1
+1930,24022,2025-10-01,Product damaged,1
+1931,24039,2025-10-10,Wrong product,1
+1932,24047,2025-10-19,Size issue,1
+1933,24057,2025-09-29,Product damaged,1
+1934,24066,2025-10-12,Changed mind,1
+1935,24072,2025-10-19,Defective product,1
+1936,24073,2025-10-08,Product not as expected,1
+1937,24074,2025-09-25,Wrong product,2
+1938,24117,2025-10-15,Product damaged,2
+1939,24130,2025-10-11,Product not as expected,2
+1940,24153,2025-10-03,Product not as expected,1
+1941,24161,2025-10-23,Changed mind,2
+1942,24218,2025-10-23,Wrong product,1
+1943,24222,2025-10-23,Changed mind,1
+1944,24223,2025-09-30,Defective product,1
+1945,24236,2025-09-28,Changed mind,1
+1946,24248,2025-10-18,Defective product,1
+1947,24249,2025-10-15,Defective product,2
+1948,24275,2025-10-19,Product not as expected,1
+1949,24283,2025-10-03,Product damaged,3
+1950,24287,2025-10-27,Size issue,1
+1951,24296,2025-10-11,Size issue,1
+1952,24310,2025-10-26,Changed mind,1
+1953,24325,2025-10-05,Changed mind,1
+1954,24344,2025-10-06,Changed mind,1
+1955,24350,2025-10-24,Defective product,1
+1956,24352,2025-10-17,Defective product,1
+1957,24360,2025-10-07,Product damaged,1
+1958,24370,2025-10-07,Size issue,1
+1959,24389,2025-10-18,Product damaged,1
+1960,24422,2025-10-28,Product not as expected,1
+1961,24431,2025-10-10,Product not as expected,1
+1962,24435,2025-10-17,Product damaged,2
+1963,24441,2025-10-11,Changed mind,1
+1964,24442,2025-10-07,Defective product,1
+1965,24446,2025-10-30,Defective product,1
+1966,24450,2025-10-31,Product damaged,1
+1967,24457,2025-10-12,Changed mind,1
+1968,24467,2025-10-11,Defective product,1
+1969,24490,2025-10-15,Product damaged,3
+1970,24491,2025-10-21,Product damaged,1
+1971,24502,2025-10-28,Changed mind,2
+1972,24510,2025-10-17,Size issue,1
+1973,24525,2025-10-25,Product not as expected,1
+1974,24537,2025-11-02,Product damaged,1
+1975,24542,2025-10-15,Wrong product,1
+1976,24571,2025-10-17,Changed mind,1
+1977,24601,2025-11-04,Changed mind,1
+1978,24602,2025-10-13,Defective product,2
+1979,24606,2025-11-03,Changed mind,1
+1980,24628,2025-10-10,Product not as expected,1
+1981,24636,2025-10-21,Changed mind,1
+1982,24651,2025-10-30,Size issue,1
+1983,24665,2025-10-29,Size issue,1
+1984,24672,2025-10-30,Product damaged,1
+1985,24689,2025-11-02,Defective product,2
+1986,24732,2025-11-07,Changed mind,2
+1987,24752,2025-11-07,Wrong product,1
+1988,24772,2025-11-06,Changed mind,1
+1989,24781,2025-10-28,Wrong product,1
+1990,24783,2025-10-24,Size issue,1
+1991,24784,2025-11-08,Product not as expected,2
+1992,24786,2025-10-21,Product damaged,2
+1993,24812,2025-10-31,Changed mind,1
+1994,24819,2025-10-14,Wrong product,1
+1995,24833,2025-10-19,Size issue,1
+1996,24842,2025-10-18,Product not as expected,1
+1997,24864,2025-10-29,Defective product,2
+1998,24871,2025-11-01,Product damaged,1
+1999,24885,2025-10-29,Wrong product,1
+2000,24938,2025-10-31,Wrong product,3
+2001,24939,2025-11-12,Product not as expected,1
+2002,24948,2025-11-13,Wrong product,1
+2003,24956,2025-11-12,Wrong product,1
+2004,24959,2025-10-23,Product not as expected,1
+2005,24977,2025-10-23,Product not as expected,1
+2006,24983,2025-10-28,Defective product,1
+2007,24984,2025-11-12,Defective product,1
+2008,25009,2025-11-05,Wrong product,1
+2009,25010,2025-11-11,Defective product,1
+2010,25020,2025-11-13,Product not as expected,1
+2011,25050,2025-11-13,Product not as expected,2
+2012,25076,2025-11-10,Changed mind,1
+2013,25077,2025-11-13,Size issue,1
+2014,25085,2025-11-05,Size issue,3
+2015,25088,2025-11-07,Product damaged,1
+2016,25092,2025-11-11,Size issue,1
+2017,25097,2025-10-31,Changed mind,1
+2018,25103,2025-11-14,Defective product,1
+2019,25120,2025-11-11,Defective product,1
+2020,25134,2025-11-14,Wrong product,1
+2021,25186,2025-10-27,Wrong product,1
+2022,25191,2025-11-19,Wrong product,1
+2023,25209,2025-11-08,Wrong product,3
+2024,25223,2025-11-13,Size issue,1
+2025,25227,2025-11-04,Product not as expected,1
+2026,25245,2025-11-03,Product not as expected,2
+2027,25264,2025-10-28,Defective product,1
+2028,25272,2025-11-12,Product not as expected,1
+2029,25279,2025-10-28,Product damaged,1
+2030,25326,2025-10-30,Product not as expected,1
+2031,25328,2025-11-01,Wrong product,1
+2032,25330,2025-11-01,Changed mind,1
+2033,25343,2025-11-07,Wrong product,1
+2034,25352,2025-11-26,Defective product,1
+2035,25360,2025-11-08,Size issue,1
+2036,25369,2025-11-10,Wrong product,1
+2037,25407,2025-11-14,Wrong product,1
+2038,25433,2025-11-04,Size issue,1
+2039,25449,2025-11-16,Size issue,3
+2040,25465,2025-11-18,Defective product,1
+2041,25479,2025-11-24,Size issue,1
+2042,25487,2025-11-27,Product damaged,1
+2043,25499,2025-11-09,Changed mind,1
+2044,25514,2025-11-20,Product damaged,1
+2045,25524,2025-11-06,Product damaged,2
+2046,25540,2025-12-01,Changed mind,1
+2047,25574,2025-11-13,Product not as expected,1
+2048,25586,2025-12-02,Product damaged,2
+2049,25597,2025-11-29,Wrong product,2
+2050,25616,2025-11-09,Product not as expected,2
+2051,25619,2025-11-10,Size issue,1
+2052,25642,2025-11-16,Size issue,2
+2053,25651,2025-11-13,Product not as expected,2
+2054,25654,2025-11-28,Defective product,2
+2055,25659,2025-11-16,Product not as expected,1
+2056,25663,2025-11-08,Defective product,1
+2057,25669,2025-11-26,Changed mind,1
+2058,25671,2025-12-01,Defective product,1
+2059,25678,2025-12-05,Defective product,1
+2060,25699,2025-11-30,Defective product,1
+2061,25719,2025-12-04,Size issue,1
+2062,25721,2025-11-14,Wrong product,1
+2063,25746,2025-11-25,Changed mind,2
+2064,25752,2025-11-30,Product damaged,1
+2065,25800,2025-11-22,Changed mind,1
+2066,25802,2025-11-12,Product not as expected,1
+2067,25820,2025-11-29,Product not as expected,2
+2068,25832,2025-11-13,Product not as expected,1
+2069,25844,2025-11-30,Product not as expected,3
+2070,25846,2025-11-28,Product damaged,1
+2071,25883,2025-11-30,Product damaged,2
+2072,25899,2025-12-03,Changed mind,1
+2073,25947,2025-11-28,Defective product,1
+2074,25949,2025-12-04,Product not as expected,1
+2075,25950,2025-11-21,Product damaged,1
+2076,25961,2025-11-19,Product damaged,2
+2077,25967,2025-12-09,Size issue,1
+2078,25969,2025-11-25,Wrong product,2
+2079,25970,2025-12-02,Defective product,1
+2080,25988,2025-11-19,Wrong product,1
+2081,25989,2025-12-04,Wrong product,1
+2082,25990,2025-12-01,Wrong product,1
+2083,26014,2025-12-08,Wrong product,1
+2084,26016,2025-11-17,Changed mind,1
+2085,26024,2025-11-20,Defective product,1
+2086,26028,2025-12-03,Wrong product,2
+2087,26032,2025-11-16,Changed mind,1
+2088,26035,2025-11-30,Wrong product,1
+2089,26037,2025-11-16,Product damaged,2
+2090,26051,2025-11-20,Product not as expected,1
+2091,26053,2025-12-11,Product not as expected,1
+2092,26067,2025-11-18,Size issue,1
+2093,26073,2025-12-15,Product not as expected,1
+2094,26077,2025-12-07,Size issue,1
+2095,26083,2025-12-03,Wrong product,2
+2096,26112,2025-12-05,Defective product,1
+2097,26118,2025-12-10,Wrong product,1
+2098,26128,2025-12-13,Product damaged,2
+2099,26141,2025-11-27,Product damaged,2
+2100,26150,2025-12-17,Size issue,1
+2101,26201,2025-12-16,Changed mind,1
+2102,26245,2025-12-08,Product not as expected,1
+2103,26254,2025-12-18,Defective product,3
+2104,26260,2025-12-01,Wrong product,1
+2105,26275,2025-12-11,Defective product,1
+2106,26289,2025-12-20,Product not as expected,1
+2107,26297,2025-11-23,Size issue,1
+2108,26353,2025-12-21,Product damaged,1
+2109,26358,2025-12-18,Product not as expected,1
+2110,26368,2025-12-20,Product not as expected,2
+2111,26412,2025-12-09,Product not as expected,1
+2112,26416,2025-12-15,Changed mind,2
+2113,26437,2025-12-18,Changed mind,2
+2114,26441,2025-12-03,Wrong product,1
+2115,26483,2025-12-04,Product not as expected,1
+2116,26485,2025-12-22,Wrong product,2
+2117,26487,2025-12-20,Product damaged,1
+2118,26492,2025-12-15,Product not as expected,1
+2119,26497,2025-12-06,Defective product,2
+2120,26501,2025-11-28,Product damaged,2
+2121,26543,2025-12-17,Changed mind,1
+2122,26554,2025-11-29,Changed mind,1
+2123,26563,2025-12-11,Product damaged,1
+2124,26572,2025-12-26,Defective product,1
+2125,26574,2025-11-30,Product not as expected,3
+2126,26589,2025-12-02,Changed mind,1
+2127,26592,2025-12-10,Product damaged,1
+2128,26593,2025-11-30,Defective product,1
+2129,26599,2025-12-13,Product damaged,1
+2130,26622,2025-12-18,Defective product,1
+2131,26684,2025-12-25,Product not as expected,1
+2132,26695,2025-12-22,Size issue,1
+2133,26715,2025-12-11,Defective product,1
+2134,26723,2025-12-04,Changed mind,1
+2135,26740,2025-12-16,Defective product,1
+2136,26766,2025-12-29,Product damaged,1
+2137,26767,2025-12-10,Size issue,1
+2138,26772,2025-12-29,Changed mind,1
+2139,26778,2025-12-03,Size issue,1
+2140,26780,2025-12-04,Wrong product,1
+2141,26829,2025-12-20,Wrong product,1
+2142,26838,2026-01-01,Defective product,2
+2143,26874,2025-12-20,Product damaged,2
+2144,26884,2025-12-18,Size issue,1
+2145,26904,2025-12-22,Product not as expected,2
+2146,26926,2025-12-27,Wrong product,1
+2147,26949,2025-12-19,Changed mind,1
+2148,26955,2025-12-29,Size issue,1
+2149,26958,2025-12-23,Product not as expected,1
+2150,26960,2026-01-03,Product not as expected,1
+2151,26967,2025-12-26,Wrong product,1
+2152,26974,2026-01-02,Size issue,1
+2153,26985,2025-12-27,Product damaged,1
+2154,26996,2025-12-22,Defective product,2
+2155,27059,2025-12-29,Defective product,1
+2156,27061,2026-01-08,Size issue,1
+2157,27062,2026-01-04,Changed mind,2
+2158,27071,2026-01-03,Changed mind,1
+2159,27088,2025-12-19,Wrong product,2
+2160,27100,2025-12-24,Defective product,1
+2161,27117,2025-12-25,Product not as expected,1
+2162,27131,2025-12-25,Defective product,1
+2163,27142,2026-01-08,Product damaged,1
+2164,27150,2026-01-11,Changed mind,1
+2165,27156,2025-12-20,Product not as expected,1
+2166,27199,2025-12-19,Wrong product,1
+2167,27201,2025-12-27,Changed mind,1
+2168,27205,2026-01-07,Product damaged,1
+2169,27226,2025-12-23,Product not as expected,1
+2170,27260,2025-12-22,Changed mind,1
+2171,27273,2025-12-20,Changed mind,2
+2172,27278,2026-01-09,Product not as expected,1
+2173,27280,2025-12-20,Product damaged,1
+2174,27319,2025-12-30,Size issue,1
+2175,27333,2026-01-12,Defective product,1
+2176,27335,2025-12-29,Size issue,3
+2177,27336,2025-12-27,Size issue,1
+2178,27343,2026-01-07,Size issue,1
+2179,27360,2026-01-05,Defective product,1
+2180,27382,2026-01-08,Product damaged,1
+2181,27385,2026-01-06,Wrong product,1
+2182,27405,2026-01-13,Wrong product,1
+2183,27414,2026-01-18,Defective product,2
+2184,27417,2025-12-28,Wrong product,1
+2185,27421,2025-12-23,Wrong product,1
+2186,27422,2025-12-31,Changed mind,1
+2187,27431,2026-01-11,Product damaged,1
+2188,27433,2026-01-03,Product not as expected,1
+2189,27437,2026-01-04,Product damaged,1
+2190,27446,2026-01-03,Changed mind,1
+2191,27450,2026-01-11,Product damaged,1
+2192,27455,2026-01-02,Product damaged,1
+2193,27457,2026-01-07,Size issue,2
+2194,27469,2026-01-20,Changed mind,1
+2195,27489,2026-01-08,Changed mind,1
+2196,27498,2025-12-31,Defective product,2
+2197,27501,2026-01-19,Product damaged,1
+2198,27510,2025-12-27,Product not as expected,1
+2199,27517,2026-01-11,Changed mind,1
+2200,27519,2026-01-17,Size issue,1
+2201,27543,2026-01-18,Product damaged,1
+2202,27544,2025-12-25,Size issue,1
+2203,27545,2025-12-27,Changed mind,1
+2204,27552,2026-01-17,Changed mind,2
+2205,27569,2026-01-17,Product damaged,1
+2206,27579,2026-01-11,Size issue,1
+2207,27620,2026-01-24,Size issue,1
+2208,27623,2026-01-23,Size issue,1
+2209,27643,2026-01-24,Product damaged,1
+2210,27651,2026-01-05,Size issue,1
+2211,27661,2026-01-11,Defective product,1
+2212,27683,2026-01-17,Defective product,1
+2213,27687,2026-01-14,Product damaged,1
+2214,27689,2026-01-23,Product not as expected,1
+2215,27690,2026-01-01,Size issue,1
+2216,27699,2026-01-01,Defective product,1
+2217,27701,2026-01-16,Changed mind,1
+2218,27722,2026-01-23,Wrong product,1
+2219,27731,2026-01-12,Defective product,1
+2220,27748,2026-01-10,Defective product,4
+2221,27750,2026-01-12,Product damaged,1
+2222,27769,2026-01-02,Wrong product,1
+2223,27770,2026-01-26,Defective product,1
+2224,27777,2026-01-01,Defective product,3
+2225,27786,2026-01-16,Changed mind,2
+2226,27790,2026-01-03,Wrong product,2
+2227,27817,2026-01-05,Defective product,1
+2228,27818,2026-01-08,Defective product,1
+2229,27842,2026-01-28,Size issue,1
+2230,27864,2026-01-17,Product not as expected,1
+2231,27881,2026-01-17,Product damaged,1
+2232,27897,2026-01-25,Product damaged,1
+2233,27901,2026-01-11,Product damaged,1
+2234,27915,2026-01-16,Wrong product,3
+2235,27921,2026-01-13,Size issue,1
+2236,27929,2026-01-29,Changed mind,1
+2237,27936,2026-01-12,Product not as expected,1
+2238,27949,2026-01-17,Changed mind,1
+2239,27962,2026-01-11,Product damaged,1
+2240,27964,2026-01-14,Product not as expected,1
+2241,27965,2026-01-14,Changed mind,1
+2242,27993,2026-01-11,Product not as expected,1
+2243,28005,2026-01-22,Wrong product,1
+2244,28012,2026-01-22,Product not as expected,2
+2245,28017,2026-01-21,Size issue,1
+2246,28025,2026-01-24,Wrong product,1
+2247,28026,2026-01-18,Defective product,1
+2248,28040,2026-01-08,Defective product,2
+2249,28051,2026-01-08,Wrong product,1
+2250,28059,2026-01-16,Product not as expected,1
+2251,28072,2026-01-21,Product not as expected,1
+2252,28087,2026-02-04,Product damaged,1
+2253,28089,2026-01-25,Product damaged,1
+2254,28090,2026-02-04,Product not as expected,1
+2255,28104,2026-01-23,Defective product,1
+2256,28115,2026-01-22,Product not as expected,2
+2257,28121,2026-02-05,Defective product,2
+2258,28124,2026-01-24,Product damaged,1
+2259,28130,2026-01-16,Defective product,1
+2260,28131,2026-01-20,Wrong product,1
+2261,28136,2026-01-24,Wrong product,1
+2262,28159,2026-01-23,Product damaged,1
+2263,28167,2026-01-28,Wrong product,1
+2264,28181,2026-01-12,Wrong product,1
+2265,28195,2026-01-20,Changed mind,1
+2266,28204,2026-02-06,Changed mind,1
+2267,28205,2026-02-04,Product damaged,1
+2268,28206,2026-02-03,Wrong product,1
+2269,28212,2026-01-22,Changed mind,1
+2270,28221,2026-01-15,Product not as expected,1
+2271,28234,2026-01-21,Changed mind,1
+2272,28259,2026-01-13,Wrong product,3
+2273,28274,2026-02-09,Product damaged,3
+2274,28282,2026-01-28,Product damaged,1
+2275,28343,2026-02-10,Product damaged,4
+2276,28349,2026-02-10,Product damaged,1
+2277,28351,2026-02-07,Defective product,1
+2278,28352,2026-02-03,Product not as expected,1
+2279,28357,2026-01-25,Wrong product,1
+2280,28363,2026-01-19,Wrong product,1
+2281,28368,2026-01-24,Product damaged,1
+2282,28377,2026-02-07,Changed mind,1
+2283,28378,2026-01-27,Product damaged,1
+2284,28381,2026-02-02,Changed mind,2
+2285,28397,2026-01-17,Wrong product,1
+2286,28400,2026-01-21,Product damaged,1
+2287,28407,2026-02-08,Changed mind,1
+2288,28410,2026-01-22,Product damaged,1
+2289,28423,2026-01-24,Wrong product,1
+2290,28429,2026-02-04,Wrong product,1
+2291,28434,2026-01-28,Product damaged,2
+2292,28448,2026-02-10,Product not as expected,2
+2293,28469,2026-02-10,Defective product,1
+2294,28501,2026-01-21,Size issue,1
+2295,28502,2026-01-23,Size issue,1
+2296,28513,2026-02-12,Size issue,1
+2297,28530,2026-02-13,Changed mind,1
+2298,28549,2026-02-12,Defective product,1
+2299,28568,2026-01-27,Product not as expected,1
+2300,28573,2026-02-18,Wrong product,2
+2301,28574,2026-01-21,Size issue,2
+2302,28585,2026-01-28,Product damaged,2
+2303,28660,2026-01-28,Defective product,1
+2304,28664,2026-02-10,Product damaged,1
+2305,28680,2026-01-25,Wrong product,1
+2306,28686,2026-02-19,Changed mind,2
+2307,28712,2026-02-03,Size issue,2
+2308,28713,2026-02-13,Size issue,1
+2309,28716,2026-02-05,Changed mind,2
+2310,28741,2026-01-31,Changed mind,1
+2311,28745,2026-02-21,Changed mind,2
+2312,28767,2026-02-02,Changed mind,2
+2313,28798,2026-02-21,Wrong product,1
+2314,28825,2026-02-24,Size issue,1
+2315,28838,2026-02-11,Wrong product,1
+2316,28842,2026-01-29,Defective product,1
+2317,28857,2026-02-19,Size issue,1
+2318,28859,2026-02-13,Changed mind,2
+2319,28866,2026-02-18,Changed mind,1
+2320,28907,2026-02-16,Product not as expected,2
+2321,28914,2026-02-07,Product not as expected,1
+2322,28920,2026-02-12,Product not as expected,1
+2323,28923,2026-02-26,Size issue,1
+2324,28926,2026-02-15,Changed mind,1
+2325,28975,2026-02-13,Product damaged,1
+2326,28990,2026-02-15,Product not as expected,1
+2327,28997,2026-02-09,Product damaged,1
+2328,29007,2026-02-13,Wrong product,1
+2329,29021,2026-02-15,Changed mind,3
+2330,29024,2026-02-19,Changed mind,1
+2331,29027,2026-02-03,Defective product,1
+2332,29046,2026-02-24,Product not as expected,1
+2333,29061,2026-02-02,Defective product,1
+2334,29066,2026-02-03,Wrong product,1
+2335,29073,2026-02-04,Changed mind,2
+2336,29075,2026-02-26,Product damaged,1
+2337,29077,2026-02-15,Wrong product,1
+2338,29080,2026-02-28,Defective product,1
+2339,29126,2026-02-24,Defective product,1
+2340,29143,2026-02-20,Product not as expected,3
+2341,29166,2026-02-24,Changed mind,1
+2342,29171,2026-02-26,Product not as expected,2
+2343,29176,2026-02-12,Wrong product,1
+2344,29191,2026-02-19,Defective product,2
+2345,29212,2026-02-14,Product not as expected,2
+2346,29213,2026-02-16,Product damaged,2
+2347,29218,2026-02-25,Defective product,1
+2348,29241,2026-03-04,Changed mind,1
+2349,29254,2026-02-14,Product not as expected,1
+2350,29271,2026-02-19,Size issue,1
+2351,29286,2026-03-07,Size issue,1
+2352,29295,2026-02-22,Defective product,1
+2353,29298,2026-02-10,Wrong product,1
+2354,29304,2026-02-18,Size issue,1
+2355,29305,2026-02-13,Product not as expected,1
+2356,29308,2026-03-01,Defective product,1
+2357,29325,2026-02-12,Product not as expected,1
+2358,29340,2026-02-20,Size issue,1
+2359,29355,2026-02-11,Size issue,1
+2360,29358,2026-02-28,Wrong product,1
+2361,29359,2026-03-07,Product damaged,1
+2362,29375,2026-02-10,Size issue,1
+2363,29380,2026-02-14,Product not as expected,3
+2364,29383,2026-02-12,Changed mind,1
+2365,29390,2026-03-04,Defective product,1
+2366,29391,2026-03-01,Changed mind,1
+2367,29392,2026-02-15,Product not as expected,1
+2368,29404,2026-03-03,Size issue,1
+2369,29410,2026-02-21,Size issue,1
+2370,29420,2026-03-02,Size issue,2
+2371,29428,2026-02-21,Product not as expected,1
+2372,29431,2026-03-08,Product not as expected,1
+2373,29438,2026-02-18,Changed mind,1
+2374,29452,2026-03-11,Wrong product,1
+2375,29477,2026-02-26,Size issue,1
+2376,29503,2026-02-12,Wrong product,1
+2377,29526,2026-02-25,Size issue,1
+2378,29568,2026-02-27,Product damaged,2
+2379,29571,2026-03-01,Defective product,2
+2380,29600,2026-02-23,Defective product,1
+2381,29612,2026-03-13,Product damaged,1
+2382,29638,2026-02-24,Wrong product,1
+2383,29639,2026-03-09,Changed mind,2
+2384,29650,2026-03-09,Size issue,1
+2385,29690,2026-03-04,Changed mind,1
+2386,29705,2026-03-14,Wrong product,1
+2387,29706,2026-03-13,Product not as expected,1
+2388,29716,2026-03-15,Changed mind,1
+2389,29717,2026-02-25,Product not as expected,2
+2390,29720,2026-03-05,Product damaged,1
+2391,29741,2026-03-01,Size issue,1
+2392,29746,2026-02-26,Changed mind,1
+2393,29750,2026-02-22,Product damaged,1
+2394,29767,2026-03-18,Wrong product,1
+2395,29779,2026-02-28,Defective product,1
+2396,29786,2026-03-16,Defective product,2
+2397,29794,2026-03-16,Size issue,1
+2398,29799,2026-03-19,Size issue,1
+2399,29806,2026-03-03,Changed mind,2
+2400,29811,2026-03-07,Defective product,1
+2401,29813,2026-03-10,Product not as expected,1
+2402,29815,2026-03-01,Product not as expected,2
+2403,29822,2026-02-25,Defective product,1
+2404,29846,2026-03-05,Product damaged,1
+2405,29861,2026-03-05,Defective product,1
+2406,29862,2026-03-05,Product not as expected,1
+2407,29878,2026-03-15,Product damaged,1
+2408,29880,2026-03-05,Product not as expected,1
+2409,29883,2026-03-16,Defective product,1
+2410,29889,2026-03-10,Product not as expected,2
+2411,29891,2026-03-13,Product not as expected,1
+2412,29898,2026-03-09,Product damaged,1
+2413,29916,2026-02-28,Wrong product,2
+2414,29917,2026-03-19,Changed mind,1
+2415,29928,2026-03-18,Product damaged,1
+2416,29930,2026-03-05,Product not as expected,1
+2417,29938,2026-03-14,Size issue,1
+2418,29965,2026-03-05,Wrong product,1
+2419,29971,2026-02-25,Product not as expected,1
+2420,29995,2026-03-16,Product not as expected,1
+2421,30015,2026-03-03,Wrong product,1
+2422,30027,2026-03-20,Changed mind,1
+2423,30059,2026-03-15,Product not as expected,1
+2424,30089,2026-03-20,Product damaged,2
+2425,30094,2026-03-02,Size issue,2
+2426,30139,2026-03-09,Product not as expected,1
+2427,30145,2026-03-12,Defective product,1
+2428,30152,2026-03-23,Wrong product,1
+2429,30180,2026-03-23,Product damaged,1
+2430,30235,2026-03-19,Changed mind,1
+2431,30253,2026-03-26,Changed mind,1
+2432,30262,2026-03-25,Defective product,1
+2433,30266,2026-03-07,Defective product,2
+2434,30279,2026-03-21,Wrong product,1
+2435,30288,2026-03-29,Wrong product,1
+2436,30297,2026-03-28,Defective product,1
+2437,30318,2026-03-06,Size issue,1
+2438,30326,2026-04-02,Size issue,2
+2439,30337,2026-04-01,Wrong product,1
+2440,30347,2026-03-12,Changed mind,1
+2441,30378,2026-04-03,Size issue,1
+2442,30382,2026-04-03,Product not as expected,2
+2443,30392,2026-03-24,Defective product,1
+2444,30394,2026-03-11,Size issue,1
+2445,30413,2026-03-07,Product not as expected,1
+2446,30432,2026-03-14,Product not as expected,1
+2447,30443,2026-03-22,Product damaged,1
+2448,30473,2026-03-14,Size issue,1
+2449,30480,2026-03-29,Wrong product,1
+2450,30481,2026-03-24,Product damaged,1
+2451,30524,2026-03-29,Defective product,1
+2452,30534,2026-03-31,Defective product,1
+2453,30543,2026-04-06,Changed mind,1
+2454,30589,2026-03-29,Defective product,1
+2455,30610,2026-03-16,Wrong product,1
+2456,30638,2026-03-18,Product not as expected,1
+2457,30655,2026-03-26,Defective product,1
+2458,30681,2026-03-25,Size issue,3
+2459,30685,2026-04-10,Changed mind,1
+2460,30686,2026-04-04,Product damaged,1
+2461,30688,2026-03-21,Wrong product,1
+2462,30690,2026-04-09,Product damaged,1
+2463,30729,2026-03-27,Size issue,1
+2464,30736,2026-04-05,Size issue,1
+2465,30792,2026-04-04,Wrong product,1
+2466,30796,2026-04-02,Defective product,1
+2467,30809,2026-03-19,Size issue,1
+2468,30813,2026-04-11,Product not as expected,1
+2469,30843,2026-03-26,Size issue,1
+2470,30849,2026-04-05,Product not as expected,1
+2471,30864,2026-03-23,Defective product,4
+2472,30869,2026-03-23,Product damaged,1
+2473,30870,2026-03-21,Product damaged,1
+2474,30878,2026-04-13,Wrong product,1
+2475,30889,2026-04-03,Defective product,1
+2476,30890,2026-03-28,Product not as expected,1
+2477,30907,2026-04-15,Product damaged,1
+2478,30922,2026-04-01,Wrong product,1
+2479,30935,2026-03-25,Product damaged,1
+2480,30947,2026-04-15,Defective product,1
+2481,30968,2026-04-18,Defective product,1
+2482,30973,2026-04-12,Defective product,1
+2483,30980,2026-04-19,Product not as expected,1
+2484,30982,2026-03-30,Size issue,1
+2485,31002,2026-03-26,Product not as expected,2
+2486,31013,2026-04-09,Product damaged,2
+2487,31040,2026-04-12,Wrong product,1
+2488,31058,2026-04-16,Wrong product,1
+2489,31079,2026-04-10,Wrong product,1
+2490,31101,2026-04-14,Product damaged,1
+2491,31121,2026-04-08,Defective product,1
+2492,31130,2026-04-17,Defective product,1
+2493,31142,2026-04-18,Defective product,2
+2494,31152,2026-04-03,Product not as expected,1
+2495,31188,2026-04-22,Product damaged,1
+2496,31205,2026-04-03,Product damaged,1
+2497,31230,2026-04-23,Defective product,1
+2498,31231,2026-04-25,Product damaged,1
+2499,31253,2026-04-21,Product not as expected,1
+2500,31267,2026-04-10,Product not as expected,1
+2501,31281,2026-04-13,Changed mind,1
+2502,31284,2026-04-02,Product not as expected,1
+2503,31287,2026-04-18,Defective product,1
+2504,31314,2026-04-16,Defective product,1
+2505,31325,2026-04-15,Product not as expected,1
+2506,31327,2026-04-19,Changed mind,1
+2507,31342,2026-04-14,Wrong product,1
+2508,31350,2026-04-24,Size issue,1
+2509,31413,2026-04-15,Product damaged,1
+2510,31447,2026-04-17,Changed mind,1
+2511,31448,2026-04-05,Changed mind,1
+2512,31460,2026-04-08,Changed mind,2
+2513,31476,2026-04-30,Size issue,1
+2514,31537,2026-04-29,Defective product,1
+2515,31549,2026-04-12,Changed mind,2
+2516,31589,2026-04-11,Size issue,1
+2517,31592,2026-04-14,Changed mind,1
+2518,31603,2026-04-10,Changed mind,1
+2519,31640,2026-04-24,Defective product,1
+2520,31642,2026-04-30,Changed mind,1
+2521,31644,2026-04-23,Product damaged,1
+2522,31678,2026-05-04,Changed mind,1
+2523,31682,2026-04-23,Product not as expected,3
+2524,31706,2026-04-28,Product not as expected,1
+2525,31710,2026-05-06,Product damaged,2
+2526,31718,2026-05-04,Defective product,1
+2527,31725,2026-05-10,Wrong product,1
+2528,31761,2026-04-24,Product not as expected,1
+2529,31762,2026-04-30,Wrong product,1
+2530,31775,2026-05-12,Wrong product,2
+2531,31783,2026-05-09,Wrong product,1
+2532,31793,2026-05-12,Product damaged,1
+2533,31800,2026-04-27,Size issue,1
+2534,31815,2026-05-13,Size issue,1
+2535,31829,2026-04-20,Wrong product,1
+2536,31834,2026-05-11,Defective product,1
+2537,31837,2026-04-26,Product not as expected,1
+2538,31839,2026-04-18,Wrong product,4
+2539,31845,2026-04-28,Product not as expected,1
+2540,31848,2026-05-07,Changed mind,2
+2541,31854,2026-05-09,Size issue,2
+2542,31869,2026-05-01,Changed mind,1
+2543,31878,2026-05-01,Defective product,1
+2544,31890,2026-04-30,Changed mind,2
+2545,31897,2026-04-29,Product damaged,1
+2546,31910,2026-04-29,Product not as expected,1
+2547,31916,2026-05-07,Wrong product,1
+2548,31918,2026-04-17,Changed mind,1
+2549,31930,2026-04-17,Wrong product,2
+2550,31953,2026-05-11,Product damaged,1
+2551,31960,2026-04-24,Size issue,1
+2552,31971,2026-05-04,Changed mind,2
+2553,31981,2026-05-05,Product damaged,2
+2554,31996,2026-05-01,Product not as expected,1
+2555,32023,2026-04-28,Defective product,1
+2556,32029,2026-04-23,Wrong product,2
+2557,32030,2026-04-26,Changed mind,2
+2558,32035,2026-05-01,Defective product,1
+2559,32044,2026-05-02,Wrong product,1
+2560,32048,2026-05-17,Changed mind,2
+2561,32050,2026-04-30,Product damaged,1
+2562,32069,2026-05-01,Wrong product,1
+2563,32070,2026-05-03,Product damaged,1
+2564,32073,2026-04-26,Changed mind,1
+2565,32113,2026-05-13,Wrong product,1
+2566,32125,2026-04-30,Defective product,1
+2567,32127,2026-05-08,Changed mind,1
+2568,32135,2026-05-15,Product damaged,1
+2569,32137,2026-04-30,Wrong product,1
+2570,32188,2026-05-16,Size issue,4
+2571,32189,2026-05-10,Defective product,1
+2572,32202,2026-05-14,Product not as expected,1
+2573,32211,2026-05-18,Product not as expected,1
+2574,32213,2026-05-03,Defective product,1
+2575,32219,2026-04-29,Product damaged,1
+2576,32242,2026-05-16,Size issue,2
+2577,32286,2026-04-30,Product not as expected,2
+2578,32296,2026-05-18,Size issue,1
+2579,32343,2026-05-20,Product not as expected,2
+2580,32366,2026-05-01,Changed mind,1
+2581,32386,2026-05-18,Product damaged,1
+2582,32415,2026-05-06,Defective product,1
+2583,32419,2026-05-26,Wrong product,1
+2584,32447,2026-05-14,Product not as expected,1
+2585,32448,2026-05-12,Product damaged,1
+2586,32478,2026-04-30,Size issue,1
+2587,32479,2026-05-17,Defective product,2
+2588,32480,2026-05-27,Wrong product,1
+2589,32492,2026-05-11,Wrong product,4
+2590,32493,2026-05-21,Product damaged,1
+2591,32535,2026-05-21,Changed mind,1
+2592,32538,2026-05-11,Wrong product,2
+2593,32542,2026-05-17,Changed mind,1
+2594,32546,2026-05-09,Size issue,1
+2595,32564,2026-05-23,Size issue,1
+2596,32583,2026-05-10,Changed mind,1
+2597,32586,2026-05-15,Wrong product,2
+2598,32601,2026-05-26,Defective product,1
+2599,32614,2026-05-25,Defective product,1
+2600,32615,2026-05-08,Product not as expected,1
+2601,32630,2026-05-06,Wrong product,3
+2602,32633,2026-05-21,Defective product,1
+2603,32650,2026-05-06,Changed mind,2
+2604,32660,2026-05-19,Wrong product,1
+2605,32666,2026-06-01,Product damaged,1
+2606,32715,2026-05-29,Size issue,1
+2607,32726,2026-05-17,Defective product,1
+2608,32728,2026-06-02,Size issue,1
+2609,32743,2026-05-16,Wrong product,1
+2610,32747,2026-06-05,Product not as expected,2
+2611,32753,2026-05-16,Product damaged,1
+2612,32776,2026-05-31,Wrong product,1
+2613,32779,2026-05-16,Changed mind,1
+2614,32784,2026-05-10,Changed mind,1
+2615,32788,2026-05-21,Product damaged,1
+2616,32805,2026-05-15,Defective product,1
+2617,32819,2026-05-10,Product damaged,1
+2618,32855,2026-06-03,Wrong product,1
+2619,32857,2026-05-11,Defective product,1
+2620,32886,2026-05-17,Changed mind,2
+2621,32895,2026-06-05,Changed mind,1
+2622,32911,2026-06-09,Defective product,1
+2623,32934,2026-06-06,Product not as expected,1
+2624,32936,2026-05-20,Size issue,1
+2625,32953,2026-05-22,Defective product,1
+2626,32956,2026-05-18,Product damaged,1
+2627,32977,2026-05-29,Size issue,1
+2628,32988,2026-06-03,Wrong product,2
+2629,32999,2026-06-04,Wrong product,1
+2630,33035,2026-06-02,Product not as expected,1
+2631,33048,2026-05-19,Defective product,1
+2632,33070,2026-05-28,Size issue,2
+2633,33080,2026-06-03,Product not as expected,2
+2634,33088,2026-05-19,Defective product,1
+2635,33093,2026-06-12,Size issue,1
+2636,33115,2026-06-10,Wrong product,3
+2637,33116,2026-05-28,Size issue,1
+2638,33140,2026-05-25,Product damaged,1
+2639,33172,2026-06-04,Changed mind,1
+2640,33194,2026-05-24,Size issue,1
+2641,33195,2026-05-27,Wrong product,1
+2642,33201,2026-05-31,Defective product,1
+2643,33204,2026-06-16,Product damaged,1
+2644,33226,2026-05-30,Changed mind,2
+2645,33233,2026-06-09,Wrong product,1
+2646,33243,2026-06-18,Product not as expected,1
+2647,33251,2026-05-29,Product damaged,2
+2648,33252,2026-06-14,Changed mind,1
+2649,33258,2026-06-14,Changed mind,2
+2650,33280,2026-06-17,Product damaged,1
+2651,33290,2026-06-06,Size issue,3
+2652,33291,2026-05-23,Size issue,1
+2653,33347,2026-05-31,Changed mind,1
+2654,33364,2026-06-14,Wrong product,2
+2655,33367,2026-06-01,Product damaged,2
+2656,33375,2026-06-15,Wrong product,1
+2657,33397,2026-06-17,Size issue,1
+2658,33423,2026-06-09,Wrong product,1
+2659,33445,2026-06-15,Wrong product,1
+2660,33465,2026-05-31,Product damaged,1
+2661,33469,2026-06-06,Product damaged,1
+2662,33495,2026-06-08,Product not as expected,3
+2663,33503,2026-06-23,Changed mind,1
+2664,33527,2026-06-07,Product not as expected,1
+2665,33537,2026-06-19,Product damaged,1
+2666,33580,2026-06-14,Changed mind,1
+2667,33608,2026-06-03,Defective product,1
+2668,33609,2026-06-22,Wrong product,1
+2669,33614,2026-06-17,Size issue,1
+2670,33634,2026-06-24,Changed mind,1
+2671,33636,2026-06-25,Wrong product,1
+2672,33642,2026-06-22,Wrong product,1
+2673,33643,2026-06-21,Defective product,1
+2674,33657,2026-06-05,Defective product,1
+2675,33687,2026-06-18,Defective product,1
+2676,33706,2026-06-14,Wrong product,1
+2677,33727,2026-06-25,Size issue,1
+2678,33733,2026-06-10,Defective product,1
+2679,33735,2026-06-26,Wrong product,1
+2680,33739,2026-06-12,Changed mind,1
+2681,33740,2026-06-06,Defective product,2
+2682,33741,2026-06-24,Product not as expected,1
+2683,33744,2026-06-11,Product damaged,2
+2684,33751,2026-06-04,Changed mind,1
+2685,33765,2026-06-23,Changed mind,1
+2686,33769,2026-06-19,Wrong product,1
+2687,33770,2026-06-14,Product damaged,1
+2688,33808,2026-06-24,Wrong product,1
+2689,33815,2026-06-13,Defective product,1
+2690,33825,2026-06-09,Size issue,1
+2691,33834,2026-06-19,Product not as expected,1
+2692,33855,2026-06-19,Product damaged,1
+2693,33869,2026-07-04,Wrong product,1
+2694,33881,2026-06-21,Changed mind,2
+2695,33907,2026-07-01,Product not as expected,1
+2696,33911,2026-06-30,Product not as expected,1
+2697,33917,2026-07-05,Defective product,2
+2698,33932,2026-07-04,Size issue,1
+2699,33934,2026-06-20,Product damaged,1
+2700,33947,2026-07-03,Size issue,2
+2701,33979,2026-07-03,Product not as expected,1
+2702,33982,2026-06-25,Wrong product,1
+2703,33983,2026-07-02,Defective product,1
+2704,33987,2026-06-18,Wrong product,1
+2705,33996,2026-06-14,Defective product,1
+2706,34002,2026-06-14,Changed mind,1
+2707,34043,2026-07-03,Changed mind,2
+2708,34051,2026-06-14,Changed mind,1
+2709,34057,2026-06-22,Product not as expected,1
+2710,34063,2026-06-25,Changed mind,1
+2711,34067,2026-06-15,Size issue,1
+2712,34084,2026-06-14,Product damaged,2
+2713,34097,2026-07-07,Changed mind,1
+2714,34100,2026-06-13,Size issue,1
+2715,34135,2026-06-29,Wrong product,2
+2716,34144,2026-06-23,Defective product,1
+2717,34195,2026-06-22,Wrong product,2
+2718,34246,2026-06-30,Size issue,1
+2719,34253,2026-06-22,Product damaged,1
+2720,34278,2026-07-06,Size issue,1
+2721,34283,2026-07-05,Changed mind,1
+2722,34291,2026-07-15,Changed mind,1
+2723,34304,2026-07-07,Changed mind,1
+2724,34317,2026-06-22,Size issue,1
+2725,34318,2026-06-26,Size issue,1
+2726,34321,2026-06-21,Defective product,1
+2727,34341,2026-07-12,Product not as expected,1
+2728,34347,2026-06-30,Changed mind,1
+2729,34350,2026-06-24,Changed mind,1
+2730,34353,2026-06-28,Changed mind,1
+2731,34391,2026-06-25,Product not as expected,2
+2732,34394,2026-07-07,Defective product,1
+2733,34398,2026-07-08,Wrong product,1
+2734,34406,2026-07-12,Product damaged,1
+2735,34410,2026-07-03,Size issue,2
+2736,34411,2026-07-01,Product damaged,1
+2737,34413,2026-06-24,Changed mind,1
+2738,34424,2026-07-15,Changed mind,1
+2739,34425,2026-06-28,Changed mind,1
+2740,34449,2026-07-16,Defective product,1
+2741,34453,2026-06-26,Size issue,1
+2742,34465,2026-06-26,Size issue,3
+2743,34486,2026-07-10,Wrong product,1
+2744,34489,2026-06-24,Wrong product,1
+2745,34507,2026-07-05,Size issue,2
+2746,34515,2026-07-21,Changed mind,1
+2747,34553,2026-06-25,Defective product,1
+2748,34560,2026-07-12,Size issue,1
+2749,34564,2026-07-15,Defective product,1
+2750,34583,2026-07-22,Product not as expected,3
+2751,34615,2026-07-23,Wrong product,1
+2752,34627,2026-07-06,Wrong product,1
+2753,34631,2026-07-03,Product damaged,1
+2754,34632,2026-07-06,Size issue,1
+2755,34644,2026-06-29,Wrong product,2
+2756,34664,2026-07-03,Changed mind,2
+2757,34688,2026-07-13,Product damaged,3
+2758,34697,2026-07-18,Changed mind,1
+2759,34703,2026-07-07,Defective product,1
+2760,34707,2026-06-30,Wrong product,2
+2761,34726,2026-07-24,Size issue,1
+2762,34731,2026-07-07,Changed mind,1
+2763,34736,2026-07-03,Size issue,1
+2764,34738,2026-06-30,Changed mind,1
+2765,34747,2026-07-17,Changed mind,1
+2766,34781,2026-07-12,Changed mind,1
+2767,34789,2026-07-27,Product damaged,2
+2768,34794,2026-07-28,Product not as expected,1
+2769,34855,2026-07-30,Product not as expected,1
+2770,34856,2026-07-21,Changed mind,1
+2771,34858,2026-07-22,Product damaged,2
+2772,34867,2026-07-21,Product damaged,1
+2773,34880,2026-07-04,Product not as expected,2
+2774,34883,2026-07-20,Changed mind,2
+2775,34902,2026-07-25,Changed mind,1
+2776,34937,2026-07-27,Product damaged,1
+2777,34939,2026-07-19,Wrong product,1
+2778,34955,2026-07-25,Product damaged,1
+2779,34957,2026-07-17,Size issue,2
+2780,34971,2026-07-20,Product not as expected,3
+2781,34983,2026-07-22,Size issue,2
+2782,34986,2026-07-31,Size issue,2
+2783,34987,2026-07-18,Size issue,1
+2784,35003,2026-07-31,Size issue,1
+2785,35014,2026-07-21,Size issue,2
+2786,35015,2026-07-25,Size issue,1
+2787,35017,2026-07-24,Defective product,1
+2788,35050,2026-08-02,Product damaged,1
+2789,35065,2026-07-16,Product damaged,1
+2790,35085,2026-07-13,Wrong product,2
+2791,35090,2026-07-28,Size issue,1
+2792,35096,2026-07-19,Product not as expected,1
+2793,35108,2026-07-18,Changed mind,2
+2794,35109,2026-08-03,Changed mind,1
+2795,35113,2026-07-23,Wrong product,1
+2796,35119,2026-07-12,Size issue,1
+2797,35138,2026-08-04,Product not as expected,1
+2798,35157,2026-07-14,Defective product,1
+2799,35164,2026-07-19,Size issue,2
+2800,35175,2026-07-20,Defective product,4
+2801,35177,2026-07-29,Product damaged,1
+2802,35179,2026-07-30,Changed mind,1
+2803,35194,2026-07-15,Product not as expected,1
+2804,35205,2026-07-13,Product not as expected,2
+2805,35216,2026-07-13,Product not as expected,3
+2806,35223,2026-08-06,Product not as expected,1
+2807,35245,2026-07-24,Wrong product,1
+2808,35262,2026-07-28,Size issue,1
+2809,35286,2026-07-20,Wrong product,1
+2810,35289,2026-07-22,Wrong product,2
+2811,35297,2026-08-02,Size issue,1
+2812,35299,2026-08-01,Product not as expected,1
+2813,35305,2026-08-02,Product damaged,1
+2814,35312,2026-07-15,Wrong product,3
+2815,35317,2026-07-28,Wrong product,1
+2816,35326,2026-08-04,Product not as expected,1
+2817,35334,2026-07-29,Changed mind,1
+2818,35368,2026-08-11,Size issue,1
+2819,35385,2026-07-19,Product not as expected,1
+2820,35398,2026-07-31,Wrong product,2
+2821,35402,2026-08-04,Wrong product,1
+2822,35418,2026-08-12,Product not as expected,1
+2823,35420,2026-08-03,Product not as expected,2
+2824,35442,2026-08-06,Defective product,1
+2825,35443,2026-07-19,Product damaged,1
+2826,35445,2026-08-05,Product damaged,2
+2827,35471,2026-08-16,Changed mind,2
+2828,35474,2026-07-21,Product not as expected,1
+2829,35483,2026-08-03,Product damaged,1
+2830,35484,2026-07-27,Product not as expected,1
+2831,35485,2026-08-16,Size issue,1
+2832,35492,2026-08-15,Product damaged,1
+2833,35500,2026-07-19,Defective product,1
+2834,35540,2026-08-13,Defective product,1
+2835,35550,2026-08-06,Changed mind,4
+2836,35570,2026-08-06,Product not as expected,3
+2837,35574,2026-07-27,Defective product,1
+2838,35588,2026-08-01,Defective product,1
+2839,35604,2026-07-29,Size issue,1
+2840,35605,2026-08-06,Wrong product,1
+2841,35606,2026-07-22,Size issue,1
+2842,35623,2026-08-15,Product not as expected,1
+2843,35631,2026-08-02,Product damaged,1
+2844,35642,2026-08-03,Wrong product,1
+2845,35644,2026-08-20,Wrong product,1
+2846,35645,2026-08-19,Product not as expected,1
+2847,35665,2026-08-11,Product damaged,1
+2848,35675,2026-08-10,Changed mind,1
+2849,35715,2026-07-26,Changed mind,1
+2850,35716,2026-08-12,Product damaged,1
+2851,35721,2026-07-27,Product damaged,1
+2852,35725,2026-08-03,Wrong product,2
+2853,35730,2026-08-13,Wrong product,1
+2854,35740,2026-08-18,Wrong product,2
+2855,35746,2026-08-18,Product damaged,1
+2856,35796,2026-08-04,Defective product,2
+2857,35808,2026-08-20,Size issue,1
+2858,35816,2026-07-31,Wrong product,1
+2859,35828,2026-08-12,Product damaged,1
+2860,35841,2026-08-20,Changed mind,1
+2861,35844,2026-08-25,Product not as expected,1
+2862,35865,2026-08-24,Defective product,2
+2863,35867,2026-08-12,Defective product,1
+2864,35881,2026-08-16,Changed mind,2
+2865,35918,2026-08-18,Wrong product,1
+2866,35926,2026-08-21,Wrong product,1
+2867,35940,2026-08-17,Wrong product,1
+2868,35941,2026-08-15,Wrong product,1
+2869,35949,2026-08-09,Product damaged,1
+2870,35953,2026-08-11,Wrong product,1
+2871,35957,2026-08-08,Defective product,1
+2872,35992,2026-08-27,Product damaged,1
+2873,35997,2026-08-17,Product not as expected,1
+2874,36011,2026-08-05,Size issue,1
+2875,36028,2026-08-28,Defective product,1
+2876,36041,2026-08-08,Size issue,1
+2877,36042,2026-08-08,Wrong product,1
+2878,36054,2026-08-13,Changed mind,1
+2879,36065,2026-08-17,Defective product,1
+2880,36080,2026-08-27,Changed mind,1
+2881,36089,2026-08-21,Size issue,1
+2882,36096,2026-08-07,Defective product,1
+2883,36101,2026-08-07,Wrong product,2
+2884,36105,2026-08-18,Wrong product,1
+2885,36113,2026-08-12,Wrong product,1
+2886,36122,2026-08-23,Defective product,1
+2887,36129,2026-08-23,Defective product,1
+2888,36134,2026-08-19,Size issue,2
+2889,36140,2026-08-22,Wrong product,1
+2890,36158,2026-08-07,Product not as expected,2
+2891,36164,2026-08-17,Wrong product,1
+2892,36173,2026-08-18,Wrong product,2
+2893,36178,2026-08-12,Defective product,1
+2894,36204,2026-08-12,Wrong product,1
+2895,36222,2026-08-19,Size issue,1
+2896,36229,2026-08-09,Size issue,1
+2897,36233,2026-08-12,Changed mind,3
+2898,36244,2026-08-13,Product not as expected,1
+2899,36253,2026-08-27,Product not as expected,2
+2900,36255,2026-08-22,Size issue,1
+2901,36256,2026-08-25,Changed mind,1
+2902,36263,2026-08-29,Wrong product,2
+2903,36279,2026-08-11,Defective product,1
+2904,36323,2026-08-21,Defective product,1
+2905,36363,2026-08-28,Size issue,1
+2906,36383,2026-08-12,Wrong product,1
+2907,36402,2026-09-05,Changed mind,1
+2908,36408,2026-08-21,Product not as expected,1
+2909,36417,2026-08-14,Product not as expected,1
+2910,36439,2026-09-10,Product damaged,1
+2911,36470,2026-09-11,Size issue,1
+2912,36507,2026-08-26,Defective product,1
+2913,36517,2026-09-07,Defective product,1
+2914,36528,2026-08-16,Wrong product,2
+2915,36531,2026-09-08,Wrong product,1
+2916,36556,2026-09-10,Wrong product,1
+2917,36569,2026-09-13,Product damaged,1
+2918,36573,2026-09-09,Product not as expected,1
+2919,36577,2026-09-01,Size issue,1
+2920,36593,2026-09-10,Product damaged,1
+2921,36611,2026-09-08,Product damaged,1
+2922,36620,2026-08-21,Defective product,1
+2923,36622,2026-09-05,Product not as expected,1
+2924,36624,2026-08-31,Wrong product,1
+2925,36625,2026-08-22,Product damaged,1
+2926,36642,2026-08-25,Product damaged,1
+2927,36647,2026-09-06,Product not as expected,1
+2928,36668,2026-09-13,Product not as expected,1
+2929,36669,2026-08-30,Size issue,1
+2930,36671,2026-09-08,Changed mind,2
+2931,36677,2026-09-15,Changed mind,2
+2932,36696,2026-09-03,Product damaged,2
+2933,36711,2026-09-17,Defective product,1
+2934,36712,2026-09-06,Changed mind,1
+2935,36713,2026-09-02,Changed mind,2
+2936,36788,2026-09-10,Size issue,1
+2937,36801,2026-09-05,Wrong product,1
+2938,36814,2026-09-06,Wrong product,1
+2939,36830,2026-08-27,Product damaged,1
+2940,36833,2026-08-24,Product not as expected,1
+2941,36834,2026-09-15,Size issue,1
+2942,36838,2026-08-28,Wrong product,1
+2943,36858,2026-09-03,Size issue,3
+2944,36864,2026-09-08,Wrong product,2
+2945,36875,2026-09-02,Size issue,1
+2946,36885,2026-08-30,Product not as expected,1
+2947,36888,2026-09-20,Wrong product,1
+2948,36904,2026-08-25,Size issue,1
+2949,36916,2026-09-16,Product not as expected,3
+2950,36923,2026-09-12,Size issue,1
+2951,36940,2026-09-13,Changed mind,1
+2952,36944,2026-09-23,Changed mind,1
+2953,36969,2026-08-29,Size issue,1
+2954,36971,2026-08-31,Wrong product,2
+2955,36985,2026-09-03,Defective product,1
+2956,36990,2026-08-28,Size issue,1
+2957,36996,2026-08-29,Product damaged,1
+2958,36997,2026-09-22,Defective product,1
+2959,37018,2026-09-24,Product damaged,1
+2960,37058,2026-09-16,Wrong product,1
+2961,37065,2026-09-11,Size issue,2
+2962,37082,2026-09-01,Wrong product,1
+2963,37087,2026-09-01,Product not as expected,1
+2964,37089,2026-09-07,Changed mind,1
+2965,37095,2026-09-12,Defective product,1
+2966,37138,2026-09-07,Product damaged,1
+2967,37154,2026-09-06,Product not as expected,1
+2968,37165,2026-09-10,Changed mind,2
+2969,37172,2026-09-22,Changed mind,1
+2970,37173,2026-09-17,Defective product,1
+2971,37174,2026-09-19,Size issue,2
+2972,37195,2026-09-23,Size issue,1
+2973,37219,2026-09-09,Changed mind,2
+2974,37220,2026-09-02,Product damaged,1
+2975,37232,2026-09-08,Defective product,1
+2976,37258,2026-09-12,Changed mind,1
+2977,37276,2026-09-28,Wrong product,2
+2978,37307,2026-09-18,Product damaged,1
+2979,37317,2026-09-21,Size issue,2
+2980,37331,2026-09-21,Product damaged,2
+2981,37335,2026-09-27,Product damaged,1
+2982,37339,2026-09-22,Wrong product,1
+2983,37353,2026-09-09,Changed mind,1
+2984,37374,2026-09-29,Defective product,1
+2985,37385,2026-09-21,Size issue,1
+2986,37406,2026-09-06,Changed mind,1
+2987,37423,2026-09-07,Size issue,2
+2988,37457,2026-09-27,Changed mind,1
+2989,37460,2026-09-10,Changed mind,1
+2990,37471,2026-09-13,Product damaged,1
+2991,37472,2026-09-29,Defective product,1
+2992,37474,2026-09-23,Defective product,1
+2993,37490,2026-09-27,Product not as expected,1
+2994,37508,2026-10-05,Changed mind,1
+2995,37534,2026-09-21,Product not as expected,2
+2996,37536,2026-09-15,Product damaged,1
+2997,37555,2026-09-19,Defective product,1
+2998,37565,2026-09-12,Changed mind,1
+2999,37574,2026-10-08,Product not as expected,2
+3000,37578,2026-09-13,Product damaged,1
+3001,37589,2026-10-06,Size issue,1
+3002,37593,2026-10-01,Product damaged,1
+3003,37620,2026-10-07,Wrong product,1
+3004,37634,2026-10-03,Changed mind,1
+3005,37643,2026-09-17,Size issue,1
+3006,37644,2026-10-08,Wrong product,1
+3007,37649,2026-10-03,Wrong product,1
+3008,37651,2026-10-04,Product damaged,1
+3009,37659,2026-09-24,Wrong product,1
+3010,37665,2026-10-03,Changed mind,1
+3011,37671,2026-09-27,Changed mind,1
+3012,37672,2026-10-05,Size issue,1
+3013,37677,2026-09-27,Defective product,1
+3014,37712,2026-09-30,Changed mind,1
+3015,37726,2026-10-09,Defective product,2
+3016,37736,2026-10-02,Defective product,1
+3017,37740,2026-09-27,Size issue,1
+3018,37742,2026-09-23,Product damaged,1
+3019,37785,2026-10-02,Size issue,1
+3020,37787,2026-09-22,Product not as expected,1
+3021,37789,2026-09-30,Product damaged,2
+3022,37867,2026-10-12,Product damaged,2
+3023,37871,2026-09-22,Product not as expected,2
+3024,37875,2026-10-11,Wrong product,1
+3025,37883,2026-09-25,Wrong product,1
+3026,37900,2026-09-23,Product damaged,1
+3027,37911,2026-09-25,Size issue,1
+3028,37912,2026-09-30,Product damaged,1
+3029,37924,2026-10-17,Wrong product,1
+3030,37929,2026-10-03,Defective product,1
+3031,37956,2026-10-16,Defective product,1
+3032,37959,2026-09-24,Product not as expected,1
+3033,37994,2026-10-16,Defective product,1
+3034,38003,2026-10-16,Product damaged,1
+3035,38011,2026-10-12,Product damaged,1
+3036,38015,2026-09-22,Product damaged,3
+3037,38018,2026-10-10,Defective product,1
+3038,38027,2026-10-01,Product damaged,1
+3039,38030,2026-09-27,Wrong product,1
+3040,38031,2026-10-20,Changed mind,1
+3041,38045,2026-10-01,Product not as expected,1
+3042,38052,2026-10-18,Changed mind,2
+3043,38091,2026-10-10,Changed mind,1
+3044,38092,2026-10-05,Product damaged,1
+3045,38121,2026-10-13,Product not as expected,1
+3046,38147,2026-10-22,Wrong product,2
+3047,38152,2026-10-17,Product not as expected,1
+3048,38153,2026-10-19,Size issue,1
+3049,38160,2026-10-07,Defective product,1
+3050,38169,2026-10-20,Defective product,1
+3051,38184,2026-09-26,Defective product,1
+3052,38198,2026-10-11,Product not as expected,1
+3053,38199,2026-10-13,Size issue,1
+3054,38210,2026-10-23,Changed mind,1
+3055,38236,2026-10-25,Changed mind,1
+3056,38240,2026-10-03,Product damaged,1
+3057,38274,2026-10-02,Changed mind,1
+3058,38289,2026-10-08,Wrong product,1
+3059,38325,2026-10-01,Wrong product,1
+3060,38328,2026-10-28,Wrong product,1
+3061,38330,2026-10-23,Product not as expected,1
+3062,38342,2026-10-16,Size issue,1
+3063,38358,2026-10-26,Product not as expected,1
+3064,38385,2026-10-28,Product not as expected,2
+3065,38409,2026-10-21,Changed mind,1
+3066,38411,2026-10-13,Product damaged,1
+3067,38419,2026-10-02,Wrong product,4
+3068,38432,2026-10-31,Product not as expected,1
+3069,38473,2026-10-06,Defective product,2
+3070,38478,2026-10-14,Wrong product,1
+3071,38481,2026-10-24,Changed mind,2
+3072,38486,2026-10-06,Changed mind,1
+3073,38496,2026-10-30,Product not as expected,1
+3074,38506,2026-10-12,Wrong product,1
+3075,38509,2026-10-26,Defective product,1
+3076,38512,2026-10-17,Wrong product,2
+3077,38524,2026-10-21,Product not as expected,1
+3078,38525,2026-10-10,Size issue,1
+3079,38540,2026-11-02,Product damaged,1
+3080,38589,2026-10-10,Wrong product,1
+3081,38592,2026-10-16,Wrong product,1
+3082,38603,2026-10-25,Changed mind,1
+3083,38605,2026-10-24,Product damaged,1
+3084,38621,2026-11-01,Wrong product,1
+3085,38640,2026-11-03,Changed mind,2
+3086,38644,2026-10-14,Product not as expected,4
+3087,38679,2026-11-03,Defective product,1
+3088,38685,2026-10-10,Size issue,4
+3089,38707,2026-10-24,Size issue,1
+3090,38715,2026-10-11,Size issue,1
+3091,38716,2026-10-22,Changed mind,1
+3092,38745,2026-11-02,Defective product,1
+3093,38755,2026-11-09,Product damaged,2
+3094,38760,2026-10-12,Product damaged,1
+3095,38765,2026-10-30,Product not as expected,1
+3096,38791,2026-11-04,Product damaged,3
+3097,38804,2026-11-01,Product not as expected,2
+3098,38810,2026-11-09,Defective product,2
+3099,38825,2026-10-28,Product not as expected,1
+3100,38847,2026-10-28,Product not as expected,1
+3101,38853,2026-10-31,Wrong product,1
+3102,38855,2026-10-27,Defective product,1
+3103,38856,2026-11-04,Wrong product,1
+3104,38866,2026-10-20,Product not as expected,1
+3105,38872,2026-10-25,Changed mind,1
+3106,38878,2026-10-29,Defective product,1
+3107,38898,2026-11-03,Defective product,1
+3108,38929,2026-10-19,Product damaged,1
+3109,38935,2026-11-02,Size issue,2
+3110,38954,2026-10-20,Product not as expected,1
+3111,38957,2026-10-20,Size issue,1
+3112,38981,2026-10-23,Size issue,1
+3113,38985,2026-11-11,Defective product,1
+3114,38992,2026-11-03,Defective product,1
+3115,38994,2026-11-03,Defective product,1
+3116,39003,2026-10-22,Defective product,1
+3117,39023,2026-10-24,Wrong product,1
+3118,39031,2026-10-24,Changed mind,1
+3119,39039,2026-11-09,Changed mind,1
+3120,39056,2026-11-02,Wrong product,1
+3121,39068,2026-10-24,Size issue,1
+3122,39070,2026-11-15,Product damaged,1
+3123,39097,2026-11-11,Product not as expected,1
+3124,39122,2026-10-27,Wrong product,1
+3125,39127,2026-11-10,Product not as expected,1
+3126,39148,2026-11-16,Product damaged,2
+3127,39156,2026-11-09,Changed mind,1
+3128,39172,2026-11-08,Defective product,1
+3129,39202,2026-10-26,Wrong product,1
+3130,39207,2026-10-22,Defective product,3
+3131,39208,2026-11-06,Defective product,1
+3132,39210,2026-10-28,Size issue,3
+3133,39242,2026-11-14,Product damaged,1
+3134,39252,2026-11-19,Changed mind,1
+3135,39275,2026-11-13,Size issue,3
+3136,39276,2026-11-16,Product not as expected,1
+3137,39288,2026-11-08,Changed mind,1
+3138,39304,2026-11-18,Wrong product,1
+3139,39306,2026-11-02,Wrong product,1
+3140,39315,2026-10-26,Size issue,1
+3141,39318,2026-11-03,Wrong product,1
+3142,39339,2026-11-01,Defective product,1
+3143,39365,2026-11-16,Product not as expected,1
+3144,39377,2026-11-06,Wrong product,1
+3145,39378,2026-11-15,Defective product,1
+3146,39385,2026-11-19,Product damaged,1
+3147,39386,2026-11-13,Changed mind,1
+3148,39398,2026-11-03,Wrong product,2
+3149,39412,2026-11-09,Wrong product,1
+3150,39413,2026-10-30,Size issue,1
+3151,39416,2026-11-23,Size issue,1
+3152,39426,2026-11-25,Product not as expected,2
+3153,39427,2026-11-16,Product damaged,1
+3154,39445,2026-11-07,Size issue,3
+3155,39449,2026-11-23,Defective product,1
+3156,39478,2026-11-23,Defective product,2
+3157,39482,2026-11-10,Product damaged,1
+3158,39494,2026-11-06,Defective product,1
+3159,39501,2026-11-24,Product not as expected,1
+3160,39514,2026-11-03,Product not as expected,2
+3161,39529,2026-11-16,Changed mind,1
+3162,39576,2026-11-13,Defective product,1
+3163,39580,2026-11-16,Product damaged,2
+3164,39592,2026-11-25,Defective product,1
+3165,39601,2026-11-22,Defective product,1
+3166,39632,2026-11-10,Product not as expected,2
+3167,39641,2026-11-16,Product damaged,1
+3168,39647,2026-11-12,Product not as expected,1
+3169,39669,2026-11-30,Product not as expected,2
+3170,39671,2026-11-18,Wrong product,1
+3171,39676,2026-12-01,Product damaged,1
+3172,39681,2026-11-12,Product not as expected,1
+3173,39691,2026-11-15,Product not as expected,1
+3174,39712,2026-12-01,Size issue,1
+3175,39734,2026-11-21,Changed mind,1
+3176,39750,2026-11-24,Defective product,1
+3177,39754,2026-11-08,Defective product,1
+3178,39756,2026-11-25,Product not as expected,1
+3179,39759,2026-11-29,Product not as expected,3
+3180,39763,2026-12-05,Defective product,1
+3181,39802,2026-11-15,Product not as expected,1
+3182,39831,2026-11-14,Defective product,2
+3183,39833,2026-11-29,Defective product,1
+3184,39839,2026-11-25,Wrong product,1
+3185,39850,2026-11-14,Wrong product,1
+3186,39854,2026-12-04,Product not as expected,1
+3187,39858,2026-12-04,Wrong product,2
+3188,39862,2026-11-26,Product not as expected,1
+3189,39871,2026-11-17,Size issue,1
+3190,39881,2026-12-03,Product not as expected,2
+3191,39883,2026-11-25,Defective product,1
+3192,39884,2026-12-08,Wrong product,1
+3193,39888,2026-11-29,Wrong product,2
+3194,39907,2026-11-30,Defective product,2
+3195,39914,2026-12-08,Product damaged,2
+3196,39920,2026-11-21,Size issue,1
+3197,39934,2026-11-20,Product damaged,2
+3198,39943,2026-12-07,Size issue,1
+3199,39945,2026-12-06,Product damaged,1
+3200,39948,2026-12-07,Defective product,1
+3201,39959,2026-12-05,Wrong product,1
+3202,39960,2026-11-20,Size issue,1
+3203,39976,2026-11-22,Wrong product,1
+3204,39997,2026-12-08,Product not as expected,3
+3205,40023,2026-12-06,Changed mind,1
+3206,40038,2026-12-09,Changed mind,1
+3207,40059,2026-11-26,Size issue,1
+3208,40060,2026-12-02,Product damaged,1
+3209,40061,2026-11-19,Defective product,1
+3210,40075,2026-12-13,Product not as expected,1
+3211,40095,2026-11-30,Defective product,1
+3212,40097,2026-11-20,Defective product,1
+3213,40098,2026-11-25,Product damaged,1
+3214,40112,2026-12-01,Size issue,2
+3215,40133,2026-11-18,Wrong product,1
+3216,40142,2026-12-04,Size issue,1
+3217,40155,2026-12-06,Changed mind,1
+3218,40179,2026-11-25,Defective product,1
+3219,40231,2026-11-23,Defective product,1
+3220,40237,2026-11-26,Defective product,1
+3221,40238,2026-12-03,Defective product,1
+3222,40239,2026-11-29,Product not as expected,1
+3223,40244,2026-11-21,Product damaged,1
+3224,40245,2026-11-29,Changed mind,1
+3225,40250,2026-12-01,Product not as expected,1
+3226,40257,2026-11-27,Changed mind,1
+3227,40294,2026-12-09,Wrong product,1
+3228,40297,2026-12-14,Product damaged,1
+3229,40308,2026-12-14,Changed mind,1
+3230,40331,2026-12-19,Product damaged,3
+3231,40349,2026-12-13,Product damaged,2
+3232,40361,2026-11-30,Size issue,1
+3233,40376,2026-12-12,Product not as expected,1
+3234,40382,2026-12-09,Product not as expected,1
+3235,40393,2026-12-05,Product not as expected,1
+3236,40409,2026-11-28,Size issue,1
+3237,40459,2026-12-01,Size issue,1
+3238,40470,2026-12-04,Changed mind,1
+3239,40484,2026-12-22,Defective product,1
+3240,40493,2026-12-09,Product not as expected,1
+3241,40502,2026-12-08,Product not as expected,1
+3242,40504,2026-12-06,Product damaged,1
+3243,40517,2026-11-29,Wrong product,1
+3244,40533,2026-12-09,Defective product,1
+3245,40593,2026-12-18,Changed mind,1
+3246,40601,2026-12-06,Defective product,2
+3247,40634,2026-12-27,Wrong product,2
+3248,40643,2026-12-26,Changed mind,1
+3249,40660,2026-12-15,Changed mind,1
+3250,40671,2026-12-23,Defective product,1
+3251,40692,2026-12-11,Changed mind,1
+3252,40710,2026-12-07,Size issue,1
+3253,40732,2026-12-29,Product damaged,1
+3254,40733,2026-12-25,Wrong product,2
+3255,40746,2026-12-05,Product damaged,2
+3256,40751,2026-12-19,Defective product,1
+3257,40802,2026-12-04,Product not as expected,1
+3258,40820,2026-12-12,Changed mind,1
+3259,40826,2026-12-22,Defective product,1
+3260,40830,2026-12-25,Changed mind,1
+3261,40857,2027-01-02,Product damaged,1
+3262,40868,2026-12-19,Product not as expected,4
+3263,40900,2026-12-06,Product not as expected,2
+3264,40925,2026-12-30,Wrong product,1
+3265,40949,2026-12-18,Product not as expected,2
+3266,40966,2027-01-02,Product not as expected,2
+3267,40967,2026-12-20,Product damaged,1
+3268,40985,2026-12-25,Changed mind,3
+3269,40989,2026-12-10,Changed mind,1
+3270,41020,2026-12-24,Changed mind,1
+3271,41024,2026-12-21,Defective product,2
+3272,41043,2026-12-19,Product not as expected,1
+3273,41078,2027-01-06,Product damaged,1
+3274,41084,2027-01-03,Product damaged,1
+3275,41145,2026-12-30,Changed mind,1
+3276,41148,2026-12-23,Defective product,1
+3277,41183,2027-01-04,Size issue,1
+3278,41197,2026-12-16,Product not as expected,1
+3279,41224,2027-01-06,Size issue,1
+3280,41231,2027-01-06,Changed mind,1
+3281,41236,2027-01-02,Size issue,1
+3282,41264,2027-01-01,Wrong product,1
+3283,41266,2026-12-29,Product not as expected,1
+3284,41279,2027-01-09,Changed mind,2
+3285,41282,2026-12-31,Product not as expected,1
+3286,41294,2027-01-10,Product not as expected,1
+3287,41296,2026-12-29,Product not as expected,1
+3288,41318,2027-01-09,Product not as expected,1
+3289,41328,2027-01-01,Wrong product,1
+3290,41329,2026-12-22,Wrong product,1
+3291,41344,2026-12-30,Defective product,1
+3292,41366,2026-12-31,Size issue,1
+3293,41382,2026-12-19,Size issue,1
+3294,41394,2027-01-03,Changed mind,2
+3295,41399,2027-01-03,Product not as expected,2
+3296,41418,2027-01-08,Wrong product,1
+3297,41431,2026-12-31,Size issue,1
+3298,41449,2026-12-30,Size issue,1
+3299,41452,2026-12-29,Product damaged,1
+3300,41461,2027-01-14,Product damaged,2
+3301,41467,2026-12-21,Changed mind,2
+3302,41491,2026-12-25,Wrong product,1
+3303,41493,2027-01-09,Wrong product,1
+3304,41511,2026-12-23,Product damaged,1
+3305,41524,2026-12-23,Size issue,1
+3306,41543,2027-01-02,Product damaged,1
+3307,41546,2027-01-04,Product damaged,3
+3308,41567,2027-01-01,Wrong product,1
+3309,41571,2026-12-31,Wrong product,1
+3310,41576,2027-01-14,Defective product,1
+3311,41588,2027-01-11,Wrong product,1
+3312,41602,2026-12-26,Defective product,1
+3313,41613,2027-01-11,Wrong product,1
+3314,41631,2026-12-28,Product not as expected,1
+3315,41632,2027-01-13,Product not as expected,2
+3316,41638,2027-01-17,Defective product,1
+3317,41653,2027-01-19,Changed mind,1
+3318,41668,2026-12-30,Wrong product,1
+3319,41681,2027-01-19,Size issue,1
+3320,41685,2027-01-21,Product not as expected,3
+3321,41688,2027-01-08,Wrong product,1
+3322,41691,2026-12-31,Product damaged,2
+3323,41709,2026-12-27,Wrong product,1
+3324,41713,2027-01-22,Wrong product,1
+3325,41724,2026-12-30,Changed mind,2
+3326,41731,2027-01-07,Defective product,2
+3327,41737,2027-01-13,Size issue,1
+3328,41744,2027-01-02,Changed mind,1
+3329,41746,2027-01-05,Defective product,1
+3330,41763,2027-01-16,Product not as expected,1
+3331,41773,2027-01-23,Size issue,1
+3332,41782,2027-01-14,Product damaged,2
+3333,41788,2027-01-25,Wrong product,1
+3334,41790,2027-01-09,Product not as expected,2
+3335,41815,2027-01-13,Wrong product,1
+3336,41848,2027-01-26,Size issue,1
+3337,41866,2026-12-31,Changed mind,2
+3338,41874,2027-01-08,Product damaged,2
+3339,41894,2027-01-10,Product not as expected,2
+3340,41910,2027-01-03,Wrong product,3
+3341,41919,2027-01-01,Product not as expected,1
+3342,41920,2027-01-17,Product not as expected,1
+3343,41928,2027-01-17,Product not as expected,1
+3344,41930,2027-01-22,Product not as expected,1
+3345,41937,2027-01-23,Size issue,1
+3346,41947,2027-01-07,Defective product,1
+3347,41952,2027-01-15,Changed mind,1
+3348,41980,2027-01-19,Product not as expected,1
