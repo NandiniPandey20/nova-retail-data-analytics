@@ -93,10 +93,66 @@ The raw CSV files are retained as source data so that cleaning decisions can be 
 
 ## 🗄️ Database and SQL
 
-**Database:** MySQL  
-**Database name:** `nova_retail_analytics`
+**Database Management System:** MySQL
 
-The CSV files have been imported into MySQL staging tables. These tables preserve the raw values, including intentional anomalies, so they can be investigated before records are loaded into the final relational schema.
+The project uses three separate MySQL databases to support different learning and analysis requirements.
+
+### Database Usage Guide
+
+Depending on what you want to practice or explore, you can use the following databases:
+
+**1. `nova_retail_analytics` – Raw Dataset**
+
+Use this database if you want to:
+
+- Practice SQL data-quality checks.
+- Identify duplicate records and missing values.
+- Investigate invalid foreign key references.
+- Practice data integrity validation.
+- Perform your own data-cleaning operations.
+
+```sql
+USE nova_retail_analytics;
+```
+
+**2. `nova_retail_cleaned` – Cleaned Dataset**
+
+Use this database if you want to:
+
+- Work directly with cleaned retail tables.
+- Practice SQL queries and exploratory data analysis.
+- Analyze sales, customers, products, payments, and returns.
+- Perform business-focused data analysis without cleaning the raw dataset first.
+
+```sql
+USE nova_retail_cleaned;
+```
+
+**3. `nova_retail_verification` – Data Comparison**
+
+Use this database if you want to:
+
+- Compare raw and cleaned datasets.
+- Understand the impact of data-cleaning operations.
+- Verify changes in records and values.
+- Examine differences between the original and cleaned data.
+
+```sql
+USE nova_retail_verification;
+```
+
+> **Note:** These databases serve different purposes. Choose the one that matches your learning objective. The raw database is intended for practicing data cleaning, the cleaned database is intended for direct analysis, and the verification database is intended for comparing the results.
+
+### Data Import and Datatype Handling
+
+An important part of this project was understanding how raw data should be handled during database ingestion.
+
+- All columns in the initial MySQL staging tables were imported using the `VARCHAR` datatype.
+- This approach preserved the original imported values without immediately forcing them into specific numeric or date formats.
+- Datatypes were subsequently reviewed and changed wherever required.
+- Appropriate datatypes were assigned based on the nature of the data and its intended use.
+
+This approach helped separate the initial data ingestion process from datatype correction and subsequent data-quality investigation.
 
 ### SQL Scripts
 
@@ -122,8 +178,6 @@ The `SQL/` directory contains the following scripts:
 - Load cleaned records into the final relational tables.
 - Validate primary keys, foreign keys, and business rules.
 - Perform exploratory and business-focused SQL analysis.
-
-The SQL investigation is being developed incrementally, with an emphasis on understanding each issue and justifying the chosen cleaning approach.
 
 ## 🛠️ Technology Stack
 
@@ -169,6 +223,8 @@ Python Data Generation
 - [x] Created seven CSV files.
 - [x] Created the `nova_retail_analytics` MySQL database.
 - [x] Imported the CSV files into MySQL staging tables.
+- [x] Imported initial staging data using VARCHAR datatypes.
+- [x] Reviewed and corrected datatypes where required.
 - [x] Verified the expected row counts across all seven staging tables.
 - [x] Set up the GitHub repository and uploaded the raw dataset.
 - [x] Created the SQL directory and initial SQL scripts.
@@ -207,3 +263,4 @@ The repository will be updated as each stage is completed.
 **Nandini Pandey**
 
 This project is part of my ongoing development of practical skills in Data Analytics, SQL, Python, and Business Intelligence, with a focus on building reproducible, well-documented analytical workflows.
+
