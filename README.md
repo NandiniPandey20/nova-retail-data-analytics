@@ -14,18 +14,18 @@ Unlike projects that begin with an existing dataset, this project generates its 
 
 **Project Workflow:**
 
-`Data Generation → MySQL Staging Tables → Data Quality Checks → SQL Analysis → Python Analysis → Power BI → Business Insights`
+`Data Generation → MySQL Staging Tables → Data Quality Checks → SQL Cleaning & Analysis → Python Analysis → Power BI → Business Insights`
 
 ## 🎯 Project Objectives
 
-* Generate a structured retail dataset from scratch using Python.
-* Investigate data quality issues and data integrity violations.
-* Identify duplicate records, missing values, and invalid references.
-* Develop SQL skills through hands-on data cleaning and analysis.
-* Use Python, NumPy, and Pandas for data exploration.
-* Analyze retail sales, customer behavior, product performance, payments, and returns.
-* Build interactive Power BI dashboards.
-* Translate analytical findings into actionable business recommendations.
+- Generate a structured retail dataset from scratch using Python.
+- Investigate data quality issues and data integrity violations.
+- Identify duplicate records, missing values, and invalid references.
+- Develop SQL skills through hands-on data cleaning and analysis.
+- Use Python, NumPy, and Pandas for data exploration.
+- Analyze retail sales, customer behavior, product performance, payments, and returns.
+- Build interactive Power BI dashboards.
+- Translate analytical findings into actionable business recommendations.
 
 ## 🗂️ Repository Structure
 
@@ -38,19 +38,27 @@ nova-retail-data-analytics/
 ├── database_generation/
 │   └── generate_tables.py
 │
-└── TABLES/
-    ├── cities.csv
-    ├── customers.csv
-    ├── products.csv
-    ├── orders.csv
-    ├── order_items.csv
-    ├── payments.csv
-    └── returns.csv
+├── TABLES/
+│   ├── cities.csv
+│   ├── customers.csv
+│   ├── products.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── payments.csv
+│   └── returns.csv
+│
+└── SQL/
+    ├── 01_data_quality_checks.sql
+    └── 02_data_cleaning.sql
 ```
 
-The `TABLES/` directory contains the raw synthetic CSV files used as the source data for the project.
+**Directory Description:**
 
-Additional directories for SQL scripts, Python analysis, and Power BI dashboards will be added as development progresses.
+- `database_generation/` – Python script used to generate synthetic retail data.
+- `TABLES/` – Raw CSV files containing the seven related retail tables.
+- `SQL/` – SQL scripts for investigating data quality issues and performing data cleaning.
+
+Additional directories for Python analysis and Power BI dashboards will be added as development progresses.
 
 ## 🐍 Data Generation
 
@@ -58,16 +66,16 @@ The synthetic retail dataset was generated from scratch using Python, NumPy, and
 
 The dataset represents seven related tables:
 
-| Table       | Expected Records |
-| ----------- | ---------------: |
-| Cities      |               12 |
-| Customers   |            5,000 |
-| Products    |              500 |
-| Orders      |           25,000 |
-| Order Items |           50,000 |
-| Payments    |           25,000 |
-| Returns     |            2,500 |
-| **Total**   |      **108,012** |
+| Table | Expected Records |
+|---|---:|
+| Cities | 12 |
+| Customers | 5,000 |
+| Products | 500 |
+| Orders | 25,000 |
+| Order Items | 50,000 |
+| Payments | 25,000 |
+| Returns | 2,500 |
+| **Total** | **108,012** |
 
 These are the generated dataset's expected row counts. The CSV files contain deliberately introduced data-quality anomalies for investigation and cleaning during the SQL phase.
 
@@ -75,44 +83,58 @@ These are the generated dataset's expected row counts. The CSV files contain del
 
 The dataset is designed to support investigation of issues such as:
 
-* Duplicate identifiers
-* Missing or blank values
-* Invalid foreign key references
-* Invalid prices and quantities
-* Data integrity violations across related tables
+- Duplicate identifiers
+- Missing or blank values
+- Invalid foreign key references
+- Invalid prices and quantities
+- Data integrity violations across related tables
 
 The raw CSV files are retained as source data so that cleaning decisions can be documented and the original records can be compared with the cleaned data.
 
 ## 🗄️ Database and SQL
 
-**Database:** MySQL
+**Database:** MySQL  
 **Database name:** `nova_retail_analytics`
 
 The CSV files have been imported into MySQL staging tables. These tables preserve the raw values, including intentional anomalies, so they can be investigated before records are loaded into the final relational schema.
 
-### Planned SQL Work
+### SQL Scripts
 
-* Validate record counts.
-* Identify duplicate primary key candidates.
-* Investigate missing and invalid values.
-* Check referential integrity between related tables.
-* Document appropriate cleaning rules.
-* Clean and validate the data using SQL.
-* Load valid records into the final tables.
-* Perform exploratory and business-focused SQL analysis.
+The `SQL/` directory contains the following scripts:
 
-The data-quality investigation is being developed incrementally, with an emphasis on understanding each issue and justifying the chosen cleaning approach.
+| Script | Purpose |
+|---|---|
+| `01_data_quality_checks.sql` | Investigating data quality, duplicate records, missing values, and referential integrity. |
+| `02_data_cleaning.sql` | Applying appropriate data-cleaning rules based on the findings from the quality checks. |
+
+### SQL Work Completed
+
+- Completed initial record count validation.
+- Investigated duplicate primary key candidates.
+- Checked missing and invalid values.
+- Performed referential integrity checks between related tables.
+- Investigated and documented detected data anomalies.
+
+### Next Steps in SQL
+
+- Define appropriate data-cleaning rules.
+- Apply data-cleaning operations using SQL.
+- Load cleaned records into the final relational tables.
+- Validate primary keys, foreign keys, and business rules.
+- Perform exploratory and business-focused SQL analysis.
+
+The SQL investigation is being developed incrementally, with an emphasis on understanding each issue and justifying the chosen cleaning approach.
 
 ## 🛠️ Technology Stack
 
-| Technology   | Purpose                                                    |
-| ------------ | ---------------------------------------------------------- |
-| Python       | Synthetic data generation and analysis                     |
-| NumPy        | Numerical operations                                       |
-| Pandas       | Data manipulation and exploration                          |
-| MySQL        | Relational database, data quality checks, and SQL analysis |
-| Power BI     | Interactive dashboards and business intelligence           |
-| Git & GitHub | Version control and project documentation                  |
+| Technology | Purpose |
+|---|---|
+| Python | Synthetic data generation and analysis |
+| NumPy | Numerical operations |
+| Pandas | Data manipulation and exploration |
+| MySQL | Relational database, data quality checks, and SQL analysis |
+| Power BI | Interactive dashboards and business intelligence |
+| Git & GitHub | Version control and project documentation |
 
 ## 🔄 End-to-End Workflow
 
@@ -142,38 +164,41 @@ Python Data Generation
 
 ### ✅ Completed
 
-* [x] Designed the retail dataset and its seven related tables.
-* [x] Generated synthetic retail data using Python.
-* [x] Created seven CSV files.
-* [x] Created the `nova_retail_analytics` MySQL database.
-* [x] Imported the CSV files into MySQL staging tables.
-* [x] Verified the expected row counts across all seven staging tables.
-* [x] Set up the GitHub repository and uploaded the raw dataset.
+- [x] Designed the retail dataset and its seven related tables.
+- [x] Generated synthetic retail data using Python.
+- [x] Created seven CSV files.
+- [x] Created the `nova_retail_analytics` MySQL database.
+- [x] Imported the CSV files into MySQL staging tables.
+- [x] Verified the expected row counts across all seven staging tables.
+- [x] Set up the GitHub repository and uploaded the raw dataset.
+- [x] Created the SQL directory and initial SQL scripts.
+- [x] Completed SQL data-quality and integrity checks.
+- [x] Investigated and documented detected data anomalies.
 
 ### 🔄 In Progress
 
-* [ ] Complete SQL data-quality and integrity checks.
-* [ ] Investigate and document detected anomalies.
-* [ ] Define and apply appropriate data-cleaning rules.
-* [ ] Load cleaned records into the final relational tables.
-* [ ] Validate primary keys, foreign keys, and business rules.
-* [ ] Perform SQL exploratory data analysis.
-* [ ] Conduct Python analysis using Pandas and NumPy.
+- [ ] Define and apply appropriate data-cleaning rules.
+- [ ] Load cleaned records into the final relational tables.
+- [ ] Validate primary keys, foreign keys, and business rules.
+- [ ] Perform SQL exploratory data analysis.
+- [ ] Conduct Python analysis using Pandas and NumPy.
 
 ### ⏳ Planned
 
-* [ ] Analyze sales and revenue performance.
-* [ ] Investigate customer and product trends.
-* [ ] Analyze payment and return patterns.
-* [ ] Develop interactive Power BI dashboards.
-* [ ] Document business findings and recommendations.
-* [ ] Complete the project documentation.
+- [ ] Analyze sales and revenue performance.
+- [ ] Investigate customer and product trends.
+- [ ] Analyze payment and return patterns.
+- [ ] Develop interactive Power BI dashboards.
+- [ ] Document business findings and recommendations.
+- [ ] Complete the project documentation.
 
 ## 🚧 Project Status
 
-This project is currently in the **data quality and SQL validation stage**.
+This project is currently in the **SQL data-cleaning stage**.
 
-The raw dataset has been generated and imported into MySQL staging tables. The next phase focuses on investigating data-quality issues, developing defensible cleaning rules, and validating the cleaned dataset before proceeding to business analysis.
+The synthetic retail dataset has been generated, imported into MySQL staging tables, and investigated for data-quality issues. Initial SQL data-quality checks and anomaly investigations have been completed.
+
+The next phase focuses on applying appropriate cleaning rules, creating validated relational tables, and preparing the dataset for SQL and Python-based business analysis.
 
 The repository will be updated as each stage is completed.
 
